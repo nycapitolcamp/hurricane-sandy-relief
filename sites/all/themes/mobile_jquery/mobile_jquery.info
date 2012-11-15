@@ -1,0 +1,96 @@
+name = 'Mobile jQuery'
+description = 'A jQuery Mobile inspired theme'
+version = '7.x-2.0-beta1'
+core = '7.x'
+
+; Hiding the base theme
+hidden = 1
+
+stylesheets[all][] = 'styles/mobile_jquery.css'
+
+regions[header] = 'Header'
+regions[highlighted] = 'Highlighted'
+regions[content] = 'Content'
+regions[sidebar_first] = 'Primary'
+regions[sidebar_second] = 'Secondary'
+regions[footer] = 'Footer'
+
+;Settings
+settings[rebuild_registry] = 0
+settings[use_global] = 1
+settings[viewport] = 1
+settings[viewport_width] = 'device-width'
+settings[viewport_initial_scale] = 1
+settings[viewport_min_scale] = 1
+settings[viewport_max_scale] = 1
+settings[viewport_user_scalable] = ''
+settings[global_icon] = 'arrow-r'
+settings[global_inset] = 'true'
+settings[global_theme] = 'a'
+settings[global_spliticon] = 'plus'
+settings[global_header_data_position] = 'inline'
+settings[global_footer_data_position] = 'inline'
+settings[list_item_icon] = 'arrow-r'
+settings[list_item_inset] = 'true'
+settings[list_item_theme] = 'a'
+settings[list_item_dividertheme] = 'a'
+settings[list_item_counttheme] = 'a'
+settings[list_item_splittheme] = 'a'
+settings[list_item_spliticon] = 'plus'
+settings[menu_item_icon] = 'arrow-r'
+settings[menu_item_inset] = 'true'
+settings[menu_item_theme] = 'a'
+settings[menu_item_dividertheme] = 'a'
+settings[menu_item_counttheme] = 'a'
+settings[menu_item_splittheme] = 'a'
+settings[menu_item_spliticon] = 'plus'
+settings[header_data_theme] = 'a'
+settings[header_data_position] = 'inline'
+settings[content_data_theme] = 'a'
+settings[footer_data_theme] = 'a'
+settings[footer_data_position] = 'inline'
+
+;Exclude
+;javascript
+exclude[js][] = 'modules/contextual/contextual.js'
+exclude[js][] = 'modules/toolbar/toolbar.js'
+
+;css
+exclude[css][] = 'misc/vertical-tabs.css'
+exclude[css][] = 'modules/aggregator/aggregator.css'
+exclude[css][] = 'modules/block/block.css'
+exclude[css][] = 'modules/book/book.css'
+exclude[css][] = 'modules/comment/comment.css'
+exclude[css][] = 'modules/dblog/dblog.css'
+exclude[css][] = 'modules/file/file.css'
+exclude[css][] = 'modules/filter/filter.css'
+exclude[css][] = 'modules/forum/forum.css'
+exclude[css][] = 'modules/help/help.css'
+exclude[css][] = 'modules/menu/menu.css'
+exclude[css][] = 'modules/node/node.css'
+exclude[css][] = 'modules/openid/openid.css'
+exclude[css][] = 'modules/poll/poll.css'
+exclude[css][] = 'modules/search/search.css'
+exclude[css][] = 'modules/statistics/statistics.css'
+exclude[css][] = 'modules/syslog/syslog.css'
+exclude[css][] = 'modules/system/admin.css'
+exclude[css][] = 'modules/system/maintenance.css'
+exclude[css][] = 'modules/system/system.css'
+exclude[css][] = 'modules/system/system.admin.css'
+;exclude[css][] = 'modules/system/system.base.css'
+exclude[css][] = 'modules/system/system.maintenance.css'
+exclude[css][] = 'modules/system/system.menus.css'
+exclude[css][] = 'modules/system/system.messages.css'
+exclude[css][] = 'modules/system/system.theme.css'
+exclude[css][] = 'modules/taxonomy/taxonomy.css'
+exclude[css][] = 'modules/tracker/tracker.css'
+exclude[css][] = 'modules/update/update.css'
+exclude[css][] = 'modules/user/user.css'
+exclude[css][] = 'modules/toolbar/toolbar.css'
+
+; Information added by drupal.org packaging script on 2012-04-18
+version = "7.x-2.0-beta1"
+core = "7.x"
+project = "mobile_jquery"
+datestamp = "1334727398"
+

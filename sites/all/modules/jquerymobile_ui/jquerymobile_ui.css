@@ -1,0 +1,13 @@
+div.vertical-tabs fieldset.jquerymobile-ui-link-attributes, 
+div.vertical-tabs fieldset.jquerymobile-ui-wrapper {
+	border: 1px solid #CCC;
+}
+div.vertical-tabs fieldset.jquerymobile-ui-link-attributes legend, 
+div.vertical-tabs fieldset.jquerymobile-ui-wrapper legend {
+	display: block;
+}
+
+div.vertical-tabs fieldset.jquerymobile-ui-link-attributes .fieldset-legend, 
+div.vertical-tabs fieldset.jquerymobile-ui-wrapper .fieldset-legend {
+	position: relative;
+}
