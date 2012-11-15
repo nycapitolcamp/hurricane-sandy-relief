@@ -222,22 +222,60 @@
   </div>
 
   <?php print $page_top; ?>
-  <div id="home" data-role="page">
-  <div data-role="header"><h1>Categories</h1></div>
-  <div data-role="content">
-  	<h2>Select a Category Below:</h2>
-  	<ul data-role="listview" data-inset="true">
-    	<li><a href="#category-items?category=animals">Animals</a></li>
-    	<li><a href="#category-items?category=colors">Colors</a></li>
-    	<li><a href="#category-items?category=vehicles">Vehicles</a></li>
-    </ul>
-  </div>
-
-</div>
-<div id="category-items" data-role="page">
-  <div data-role="header"><h1></h1></div>
-  <div data-role="content"></div>
-</div>
+<!-- Home -->
+        <div data-role="page" id="page1">
+            <div data-role="content">
+                <div data-role="navbar" data-iconpos="top">
+                    <ul>
+                        <li>
+                            <a href="#page1" data-theme="" data-icon="">
+                                News
+                            </a>
+                        </li>
+                        <li>
+                            <a href="#page1" data-theme="" data-icon="">
+                                Shelters
+                            </a>
+                        </li>
+                        <li>
+                            <a href="#page1" data-theme="" data-icon="">
+                                Help
+                            </a>
+                        </li>
+                        <li>
+                            <a href="#page1" data-theme="" data-icon="">
+                                MTA
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+                <ul id="HowYouCanHelp" data-role="listview" data-divider-theme="b" data-inset="true">
+                    <li data-role="list-divider" role="heading">
+                        How you can help
+                    </li>
+                    <li data-theme="c">
+                        <a href="#page1" data-transition="slide">
+                            Volunteer
+                        </a>
+                    </li>
+                    <li data-theme="c">
+                        <a href="#page1" data-transition="slide">
+                            Donate to Red Cross
+                        </a>
+                    </li>
+                    <li data-theme="c">
+                        <a href="#page1" data-transition="slide">
+                            Corporate Donations
+                        </a>
+                    </li>
+                    <li data-theme="c">
+                        <a href="#page1" data-transition="slide">
+                            Donate Blood
+                        </a>
+                    </li>
+                </ul>
+            </div>
+        </div>
   <!--<?php print $page; ?>-->
   <?php print $page_bottom; ?>
 </body>
