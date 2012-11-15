@@ -4,7 +4,7 @@ version = '7.x-2.0-beta1'
 core = '7.x'
 
 ; Hiding the base theme
-hidden = 1
+hidden = 0
 
 stylesheets[all][] = 'styles/mobile_jquery.css'
 
