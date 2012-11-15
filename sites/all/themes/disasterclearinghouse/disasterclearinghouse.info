@@ -4,8 +4,8 @@ core = '7.x'
 version = '7.x-2.0-beta1'
 base theme = 'mobile_jquery'
 
-scripts[] = 'scripts/disasterclearinghouse.js'
-stylesheets[all][] = 'styles/disasterclearinghouse.css'
+scripts[] = 'disasterclearinghouse.js'
+stylesheets[all][] = 'disasterclearinghouse.css'
 
 regions[header] = 'Header'
 regions[highlighted] = 'Highlighted'

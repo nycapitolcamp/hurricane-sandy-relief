@@ -205,7 +205,7 @@ $databases = array (
   array (
     'default' => 
     array (
-      'database' => 'acquia_drupal',
+      'database' => 'sandymobile',
       'username' => 'drupaluser',
       'password' => '',
       'host' => '127.0.0.1',
