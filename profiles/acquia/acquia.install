@@ -1,0 +1,17 @@
+<?php
+
+/**
+ * Implement hook_install().
+ *
+ * Perform actions to set up the site for this profile.
+ */
+function acquia_install() {
+  include_once DRUPAL_ROOT . '/profiles/standard/standard.install';
+  $result = standard_install();
+  $db_driver = Database::getConnection()->driver();
+  if ($db_driver == 'sqlsrv') {
+    // Also enable the module.
+    module_enable(array('sqlsrv'), FALSE);
+  }
+  return $result;
+}

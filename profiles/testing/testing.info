@@ -1,0 +1,15 @@
+name = Testing
+description = Minimal profile for running tests. Includes absolutely required modules only.
+version = VERSION
+core = 7.x
+hidden = TRUE
+
+; Information added by drupal.org packaging script on 2012-10-17
+version = "7.16"
+project = "drupal"
+datestamp = "1350508567"
+
+
+; Information added by Acquia.com packaging script
+acquia = "1"
+
