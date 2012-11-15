@@ -53,69 +53,6 @@
 	<script src="http://code.jquery.com/jquery-1.7.2.min.js"></script>
 	<script src="http://code.jquery.com/mobile/1.2.0/jquery.mobile-1.2.0.min.js"></script>
 	<script>
-	// Some sample categorized data. This data is in-memory
-	// for demonstration purposes, but could be loaded dynamically
-	// via ajax.
-	var categoryData = {
-		animals: {
-			name: "Animals",
-			description: "All your favorites from aardvarks to zebras.",
-			items: [
-				{
-					name: "Pets"
-				},
-				{
-					name: "Farm Animals"
-				},
-				{
-					name: "Wild Animals"
-				}
-			]
-		},
-		colors: {
-			name: "Colors",
-			description: "Fresh colors from the magic rainbow.",
-			items: [
-				{
-					name: "Blue"
-				},
-				{
-					name: "Green"
-				},
-				{
-					name: "Orange"
-				},
-				{
-					name: "Purple"
-				},
-				{
-					name: "Red"
-				},
-				{
-					name: "Yellow"
-				},
-				{
-					name: "Violet"
-				}
-			]
-		},
-		vehicles: {
-			name: "Vehicles",
-			description: "Everything from cars to planes.",
-			items: [
-				{
-					name: "Cars"
-				},
-				{
-					name: "Planes"
-				},
-				{
-					name: "Construction"
-				}
-			]
-		}
-	};
-
 	// Load the data for a specific category, based on
 	// the URL passed in. Generate markup for the items in the
 	// category, inject it into an embedded page, and then make
@@ -221,62 +158,66 @@
     <a href="#main-content" class="element-invisible element-focusable"><?php print t('Skip to main content'); ?></a>
   </div>
 
-  <?php print $page_top; ?>
-<!-- Home -->
-        <div data-role="page" id="page1">
-            <div data-role="content">
-                <div data-role="navbar" data-iconpos="top">
-                    <ul>
-                        <li>
-                            <a href="#page1" data-theme="" data-icon="">
-                                News
-                            </a>
-                        </li>
-                        <li>
-                            <a href="#page1" data-theme="" data-icon="">
-                                Shelters
-                            </a>
-                        </li>
-                        <li>
-                            <a href="#page1" data-theme="" data-icon="">
-                                Help
-                            </a>
-                        </li>
-                        <li>
-                            <a href="#page1" data-theme="" data-icon="">
-                                MTA
-                            </a>
-                        </li>
-                    </ul>
-                </div>
-                <ul id="HowYouCanHelp" data-role="listview" data-divider-theme="b" data-inset="true">
-                    <li data-role="list-divider" role="heading">
-                        How you can help
-                    </li>
-                    <li data-theme="c">
-                        <a href="#page1" data-transition="slide">
-                            Volunteer
-                        </a>
-                    </li>
-                    <li data-theme="c">
-                        <a href="#page1" data-transition="slide">
-                            Donate to Red Cross
-                        </a>
-                    </li>
-                    <li data-theme="c">
-                        <a href="#page1" data-transition="slide">
-                            Corporate Donations
-                        </a>
-                    </li>
-                    <li data-theme="c">
-                        <a href="#page1" data-transition="slide">
-                            Donate Blood
-                        </a>
-                    </li>
-                </ul>
-            </div>
+  <?// php print $page_top; ?>
+  <!-- Page.tpl.php -->
+  
+<div data-role="page" id="page1">
+	<div data-role="header">
+    	<h1><?php print variable_get('site_name'); ?></h1>
+	</div>
+	<div data-role="content">
+		<div data-role="navbar" data-iconpos="top">
+            <ul>
+                <li>
+                    <a href="#page1" data-theme="" data-icon="">
+                        News
+                    </a>
+                </li>
+                <li>
+                    <a href="#page1" data-theme="" data-icon="">
+                        Shelters
+                    </a>
+                </li>
+                <li>
+                    <a href="#page1" data-theme="" data-icon="">
+                        Help
+                    </a>
+                </li>
+                <li>
+                    <a href="#page1" data-theme="" data-icon="">
+                        MTA
+                    </a>
+                </li>
+            </ul>
         </div>
-  <!--<?php print $page; ?>-->
-  <?php print $page_bottom; ?>
+        <ul id="HowYouCanHelp" data-role="listview" data-divider-theme="b" data-inset="true">
+            <li data-role="list-divider" role="heading">
+                How you can help
+            </li>
+            <li data-theme="c">
+                <a href="#page1" data-tranntion="slide">
+                    Volunteer
+                </a>
+            </li>
+            <li data-theme="c">
+                <a href="#page1" data-transition="slide">
+                    Donate to Red Cross
+                </a>
+            </li>
+            <li data-theme="c">
+                <a href="#page1" data-transition="slide">
+                    Corporate Donations
+                </a>
+            </li>
+            <li data-theme="c">
+                <a href="#page1" data-transition="slide">
+                    Donate Blood
+                </a>
+            </li>
+        </ul>
+    </div>
+</div>	
+  <? //php print $page; ?>
+  <?//php print $page_bottom; ?>
 </body>
 </html>

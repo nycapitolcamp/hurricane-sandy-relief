@@ -9,7 +9,7 @@ stylesheets[all][] = 'disasterclearinghouse.css'
 
 regions[header] = 'Header'
 regions[highlighted] = 'Highlighted'
-regions[content] = 'Content'
+;regions[content] = 'Content'
 regions[sidebar_first] = 'Primary'
 regions[sidebar_second] = 'Secondary'
 regions[footer] = 'Footer'
