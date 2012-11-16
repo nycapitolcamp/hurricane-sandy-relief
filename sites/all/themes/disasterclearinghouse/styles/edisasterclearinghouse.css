@@ -1,0 +1,9 @@
+/*Extending disasterclearinghouse.css*/
+
+#main-wrapper .content {
+	margin-top:10px
+}
+
+.ui-li-divider, .ui-li-static{
+	font-size:16px;
+}

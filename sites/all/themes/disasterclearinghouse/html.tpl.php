@@ -43,81 +43,20 @@
 ?><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
   "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="<?php print $language->language; ?>" version="XHTML+RDFa 1.0" dir="<?php print $language->dir; ?>"<?php print $rdf_namespaces; ?>>
+
 <head profile="<?php print $grddl_profile; ?>">
-	<?php print $head; ?>
-	<title><?php print $head_title; ?></title>
-	<?php print $styles; ?>
-	<?php print $scripts; ?>
-	<link rel="stylesheet" href="/sites/all/themes/disasterclearinghouse/styles/disasterclearinghouse.css" />
-	<!-- <link rel="stylesheet" href="http://code.jquery.com/mobile/1.2.0/jquery.mobile.structure-1.2.0.min.css" /> -->
-	<!-- <script src="http://code.jquery.com/jquery-1.7.2.min.js"></script> -->
-	<!-- <script src="http://code.jquery.com/mobile/1.2.0/jquery.mobile-1.2.0.min.js"></script> -->
+  <?php print $head; ?>
+  <title><?php print $head_title; ?></title>
+  <?php print $styles; ?>
+  <link rel="stylesheet" href="/sites/all/themes/disasterclearinghouse/styles/disasterclearinghouse.css" />
+  <?php print $scripts; ?>
 </head>
-<!--
-	Basic idea is, make menus, display nodes menu's are top level data.
-	-->
 <body class="<?php print $classes; ?>" <?php print $attributes;?>>
-	<div id="skip-link">
-		<a href="#main-content" class="element-invisible element-focusable"><?php print t('Skip to main content'); ?></a>
-	</div>
-	<?// php print $page_top; ?>
-	<div data-role="page" id="page1">
-		<div data-role="header">
-			<h1><?php print variable_get('site_name'); ?></h1>
-		</div>
-		<div data-role="content">
-			<div data-role="navbar" data-iconpos="top">
-		        <ul>
-		            <li>
-		                <a href="#page1" data-theme="" data-icon="">
-		                    News
-		                </a>
-		            </li>
-		            <li>
-		                <a href="#page1" data-theme="" data-icon="">
-		                    Shelters
-		                </a>
-		            </li>
-		            <li>
-		                <a href="#page1" data-theme="" data-icon="">
-		                    Help
-		                </a>
-		            </li>
-		            <li>
-		                <a href="#page1" data-theme="" data-icon="">
-		                    MTA
-		                </a>
-		            </li>
-		        </ul>
-		    </div>
-		    <ul id="HowYouCanHelp" data-role="listview" data-divider-theme="b" data-inset="true">
-		        <li data-role="list-divider" role="heading">
-		            How you can help
-		        </li>
-		        <li data-theme="c">
-		            <a href="#page1" data-tranntion="slide">
-		                Volunteer
-		            </a>
-		        </li>
-		        <li data-theme="c">
-		            <a href="#page1" data-transition="slide">
-		                Donate to Red Cross
-		            </a>
-		        </li>
-		        <li data-theme="c">
-		            <a href="#page1" data-transition="slide">
-		                Corporate Donations
-		            </a>
-		        </li>
-		        <li data-theme="c">
-		            <a href="#page1" data-transition="slide">
-		                Donate Blood
-		            </a>
-		        </li>
-		    </ul>
-		</div>
-	</div>	
-	<? //php print $page; ?>
-	<?//php print $page_bottom; ?>
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable"><?php print t('Skip to main content'); ?></a>
+  </div>
+  <?php print $page_top; ?>
+  <?php print $page; ?>
+  <?php print $page_bottom; ?>
 </body>
 </html>
