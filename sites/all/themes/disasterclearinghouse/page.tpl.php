@@ -71,16 +71,16 @@
  */
 ?>
 
-  <div id="page-wrapper"  data-role="page"><div id="page">
-
-    <div id="header" data-role="header">
-      <div data-role="header">
-       <h1><?php print variable_get('site_name'); ?></h1>
+  <div id="page-wrapper"><div id="page">
+    <div id="header">
+       <h1>
+          <div><img style="margin: 0 auto; border:none;" src="http://www.governor.ny.gov/sites/default/images/banner_img1.png" alt="NY.gov Portal" /></div>
+          <h1><?php print variable_get('site_name'); ?></h1>
       </div>    
     </div> <!-- /.section, /#header -->
     <?php if ($main_menu || $secondary_menu): ?>
-      <div id="navigation" data-role="navbar" data-iconpos="top"><div class="section">
-        <?php print theme('links__system_main_menu', array('links' => $main_menu, 'attributes' => array('id' => 'main-menu', 'class' => array('links', 'inline', 'clearfix')))); ?>
+      <div id="navigation"><div class="section">
+        <?php print theme('links__system_main_menu', array('links' => $main_menu, 'attributes' => array('id' => 'main-menu', 'class' => array('links', 'buttonNav')))); ?>
         <?php // print theme('links__system_secondary_menu', array('links' => $secondary_menu, 'attributes' => array('id' => 'secondary-menu', 'class' => array('links', 'inline', 'clearfix')), 'heading' => t('Secondary menu'))); ?>
       </div></div> <!-- /.section, /#navigation -->
     <?php endif; ?>
@@ -88,15 +88,16 @@
     <div>
       <div style="margin: 10px auto; height: 102px; width: 100px; background-image:url(http://www.governor.ny.gov/sites/default/themes/governor/images/menu-pin.png);"></div>
     </div>
-    <div id="main-wrapper"><div id="main" class="clearfix">
-
-      <div id="content" class="column"><div class="section">
-        <?php print render($page['content']); ?>
-      </div></div> <!-- /.section, /#content -->
-   </div></div> <!-- /#main, /#main-wrapper -->
-
-    <div id="footer"><div class="section">
-      <?php print render($page['footer']); ?>
-    </div></div> <!-- /.section, /#footer -->
-
+    <div id="content">
+      <div class="link-list">
+        <ul>
+          <li class="header first">How You Can Help</li>
+          <li class=""><a href="#page">Volunteer</a><div></div></li>
+          <li class=""><a href="#page">Donate to Red Cross</a><div></div></li>
+          <li class=""><a href="#page">Corporate Donations</a><div></div></li>
+          <li class="last"><a href="#page">Donate Blood</a><div></div></li>
+        </ul>
+      </div>
+      <?php //print render($page['content']); ?>
+    </div>
   </div></div> <!-- /#page, /#page-wrapper -->

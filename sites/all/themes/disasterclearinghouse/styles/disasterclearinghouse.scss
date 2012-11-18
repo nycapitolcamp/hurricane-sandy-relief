@@ -1,0 +1,192 @@
+/*mobile theme for disaster clearinghouse*/
+
+$accent-background: #036;
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video
+{
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+ }
+
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section
+	{display: block;}
+
+body
+{  line-height: 1;
+}
+ol, ul
+ { list-style: none;
+ }
+blockquote, q
+{  quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after
+{  content: '';
+  content: none;
+}
+table
+{  border-collapse: collapse;
+  border-spacing: 0;
+}
+/*fixes*/
+body{
+	font-family:helvetica,arial,sans-serif;
+}
+li{
+
+}
+a{
+	text-decoration:none;
+	color:#000;
+}
+/*colors*/
+$accentColor: #036;
+$accentColorText: #fff;
+
+/*mixins*/
+@mixin hlevel($align){
+	text-align: $align;
+	color:#fff;
+	font-size:18px;
+}
+@mixin tabnav($parts){
+	width: 100%/$parts;
+}
+@mixin greyGradient{
+	background: #f2f5f6; /* Old browsers */
+	background: -moz-linear-gradient(top, #f2f5f6 0%, #e3eaed 37%, #c8d7dc 100%); /* FF3.6+ */
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#f2f5f6), color-stop(37%,#e3eaed), color-stop(100%,#c8d7dc)); /* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(top, #f2f5f6 0%,#e3eaed 37%,#c8d7dc 100%); /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(top, #f2f5f6 0%,#e3eaed 37%,#c8d7dc 100%); /* Opera 11.10+ */
+	background: -ms-linear-gradient(top, #f2f5f6 0%,#e3eaed 37%,#c8d7dc 100%); /* IE10+ */
+	background: linear-gradient(to bottom, #f2f5f6 0%,#e3eaed 37%,#c8d7dc 100%); /* W3C */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f2f5f6', endColorstr='#c8d7dc',GradientType=0 ); /* IE6-9 */
+}
+@mixin greyGradientHover{
+	background: #c4d2d6; /* Old browsers */
+	background: -moz-linear-gradient(top, #c4d2d6 0%, #b6c8d0 43%, #9eb9c2 100%); /* FF3.6+ */
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#c4d2d6), color-stop(43%,#b6c8d0), color-stop(100%,#9eb9c2)); /* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(top, #c4d2d6 0%,#b6c8d0 43%,#9eb9c2 100%); /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(top, #c4d2d6 0%,#b6c8d0 43%,#9eb9c2 100%); /* Opera 11.10+ */
+	background: -ms-linear-gradient(top, #c4d2d6 0%,#b6c8d0 43%,#9eb9c2 100%); /* IE10+ */
+	background: linear-gradient(to bottom, #c4d2d6 0%,#b6c8d0 43%,#9eb9c2 100%); /* W3C */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#c4d2d6', endColorstr='#9eb9c2',GradientType=0 ); /* IE6-9 */
+}
+@mixin roundedCorner($side, $radius: 9px) {
+  border-#{$side}-radius: $radius;
+  -moz-border-radius-#{$side}: $radius;
+  -webkit-border-#{$side}-radius: $radius;
+}
+#header {
+	h1{
+		@include hlevel(center);
+	}
+	background-color: $accent-background;
+	padding:10px;
+}
+#navigation{
+	height:80px;
+	width:100%;
+	ul.buttonNav{
+		width:100%;
+		height:inherit;
+		li{
+			border:1px solid #ccc;
+			border-left:0px;
+			-webkit-box-sizing: border-box;
+			-moz-box-sizing: border-box;
+			-ms-box-sizing: border-box;
+			box-sizing: border-box;
+			float:left;
+			text-align:center;
+			height:80px;
+			line-height:80px;
+			@include tabnav(4);
+			@include greyGradient;
+			font-weight:bold;
+			a{
+				display:block;
+			}
+		}
+		li:hover{
+			@include greyGradientHover;
+		}
+		li.first{
+			border-left:1px solid #ccc;
+		}
+	}
+}
+.link-list{
+	ul{
+		li{
+			height:50px;
+			display:block;
+			line-height: 50px;
+			width:90%;
+			margin:0px auto;
+			border:1px #000 solid;
+			font-weight:bold;
+			-webkit-box-sizing: border-box;
+			-moz-box-sizing: border-box;
+			-ms-box-sizing: border-box;
+			box-sizing: border-box;
+			@include greyGradient;
+			position:relative;
+			a{
+				padding-left:15px;
+				display:block;
+			}
+			&:hover{
+				@include greyGradientHover;
+			}
+			&:active{
+				@include greyGradientHover;
+			}
+			div{
+				position:absolute;
+				right:15px;
+				top:8px;
+				height:30px;
+				width:30px;
+				background: url(http://cdn4.iconfinder.com/data/icons/brightmix/128/monotone_arrow_next_right.png);
+				background-size: 30px 30px;
+				background-repeat: no-repeat;
+			}
+		}
+		li.first{
+			border-bottom:1px #000 solid;
+			@include roundedCorner(top-left, 9px);
+			@include roundedCorner(top-right, 9px);
+		}
+		li.header{
+			padding-left:15px;
+			margin-bottom:1px;
+			background: $accentColor;
+			color: $accentColorText;
+		}
+		li.last{
+			border-top:1px #000 solid;
+			@include roundedCorner(bottom-left, 9px);
+			@include roundedCorner(bottom-right, 9px);
+		}
+	}
+}

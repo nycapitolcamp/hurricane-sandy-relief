@@ -1,12 +1,9 @@
 name = 'disasterclearinghouse'
-description = 'JQuery Mobile theme as a clearinghouse for data'
+description = 'Theme as a clearinghouse for data'
 core = '7.x'
 version = '7.x-2.0-beta1'
-base theme = 'mobile_jquery'
 
-;scripts[] = 'scripts/disasterclearinghouse.js'
-stylesheets[all][] = 'styles/disasterclearinghouse.css'
-stylesheets[all][] = 'styles/edisasterclearinghouse.css'
+stylesheets[all][] = styles/disasterclearinghouse.css
 
 regions[header] = 'Header'
 regions[highlighted] = 'Highlighted'
@@ -77,7 +74,7 @@ exclude[css][] = 'modules/system/admin.css'
 exclude[css][] = 'modules/system/maintenance.css'
 exclude[css][] = 'modules/system/system.css'
 exclude[css][] = 'modules/system/system.admin.css'
-;exclude[css][] = 'modules/system/system.base.css'
+exclude[css][] = 'modules/system/system.base.css'
 exclude[css][] = 'modules/system/system.maintenance.css'
 exclude[css][] = 'modules/system/system.menus.css'
 exclude[css][] = 'modules/system/system.messages.css'
