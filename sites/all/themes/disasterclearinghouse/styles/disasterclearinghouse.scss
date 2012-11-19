@@ -161,7 +161,7 @@ $accentColorText: #fff;
 			&:active{
 				@include greyGradientHover;
 			}
-			div{
+			.rightArrow{
 				position:absolute;
 				right:15px;
 				top:8px;
@@ -183,10 +183,25 @@ $accentColorText: #fff;
 			background: $accentColor;
 			color: $accentColorText;
 		}
-		li.last{
+		li.last, li.views-row-last{
 			border-top:1px #000 solid;
 			@include roundedCorner(bottom-left, 9px);
 			@include roundedCorner(bottom-right, 9px);
 		}
 	}
+}
+#content{
+	margin: 5px 5%;
+	p {
+		
+	}
+	br {
+		margin-bottom:5px;
+	}
+	ul, ol{
+		li{
+			list-style-type:disc;
+		}
+	}
+
 }

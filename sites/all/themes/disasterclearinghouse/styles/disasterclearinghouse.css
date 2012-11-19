@@ -183,7 +183,7 @@ a {
     /* W3C */
     filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#c4d2d6', endColorstr='#9eb9c2',GradientType=0 );
     /* IE6-9 */ }
-  .link-list ul li div {
+  .link-list ul li .rightArrow {
     position: absolute;
     right: 15px;
     top: 8px;
@@ -205,7 +205,7 @@ a {
   margin-bottom: 1px;
   background: #003366;
   color: white; }
-.link-list ul li.last {
+.link-list ul li.last, .link-list ul li.views-row-last {
   border-top: 1px #000 solid;
   border-bottom-left-radius: 9px;
   -moz-border-radius-bottom-left: 9px;
@@ -213,3 +213,10 @@ a {
   border-bottom-right-radius: 9px;
   -moz-border-radius-bottom-right: 9px;
   -webkit-border-bottom-right-radius: 9px; }
+
+#content {
+  margin: 5px 5%; }
+  #content br {
+    margin-bottom: 5px; }
+  #content ul li, #content ol li {
+    list-style-type: disc; }
