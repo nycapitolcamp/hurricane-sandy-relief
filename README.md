@@ -74,7 +74,7 @@ The Contributors
     <li>Michael D - New York Power Authority</li>
     <li>Nate Case - FOSS@RIT</li>
     <li>Remy DeCausemaker - FOSS@RIT/CIVX.us</li>
-    <li>and anyone who willing to contribute</li>
+    <li>and anyone else who is willing to contribute</li>
 </ul>
 
 The Present
