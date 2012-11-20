@@ -86,7 +86,7 @@ The Present
     <li>Mocked up a simple Mobile Interface using jQmobileUI</li>
     <li>Created the Drupal Underpinnings of the mobile site, and made many
     structural and stylistic modifications.</li>
-<ul>
+</ul>
 
 Here is a screenshot of the mobile site at the end of Day 2 of CapitolCamp.
 This image does not reflect the current state of the project, but will give
