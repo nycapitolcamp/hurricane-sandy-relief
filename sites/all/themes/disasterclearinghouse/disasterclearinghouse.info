@@ -3,6 +3,7 @@ description = 'Theme as a clearinghouse for data'
 core = '7.x'
 version = '7.x-2.0-beta1'
 
+scripts[] = 'scripts/jsonBuild.js'
 stylesheets[all][] = styles/disasterclearinghouse.css
 
 regions[header] = 'Header'

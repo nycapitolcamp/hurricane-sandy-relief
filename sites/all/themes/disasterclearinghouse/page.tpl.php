@@ -89,16 +89,8 @@
       <div style="margin: 10px auto; height: 102px; width: 100px; background-image:url(http://www.governor.ny.gov/sites/default/themes/governor/images/menu-pin.png);"></div>
     </div>
     <div id="content">
+      <?php print render($title_prefix); ?>
       <?php print render($title_suffix); ?>
-      <!--<div class="link-list">
-        <ul>
-          <li class="header first">How You Can Help</li>
-          <li class=""><a href="#page">Volunteer</a><div></div></li>
-          <li class=""><a href="#page">Donate to Red Cross</a><div></div></li>
-          <li class=""><a href="#page">Corporate Donations</a><div></div></li>
-          <li class="last"><a href="#page">Donate Blood</a><div></div></li>
-        </ul>
-      </div>-->
       <?php print render($page['content']); ?>
     </div>
   </div></div> <!-- /#page, /#page-wrapper -->

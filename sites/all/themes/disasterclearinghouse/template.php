@@ -21,6 +21,22 @@ function disasterclearinghouse_preprocess_html(&$vars) {
 drupal_add_css(path_to_theme() . '/disasterclearinghouse.css',  array('group' => CSS_THEME, 'type' => 'file'));
 
 }
+/*
+ * Replacing existing items with items from menu_local_tasks()
+ */
+function disasterclearinghouse_menu_contextual_links_alter(&$links, $router_item, $root_path) {
+  if ($root_path == 'node/%') {
+    $local_tasks = menu_local_tasks();
+    $local_links = array();
+    foreach($local_tasks['tabs']['output'] as $item) {
+      $link = $item['#link'];
+      if ($link['title'] != 'View') {
+        array_push($local_links, $link);
+      }
+    }
+    array_splice($links, 0, count($links), $local_links);
+  }
+}
 // */
 
 /**

@@ -135,9 +135,43 @@ $accentColorText: #fff;
 		}
 	}
 }
-.link-list{
-	ul{
+
+#content{
+	margin: 5px 5%;
+	font-size:16px;
+	p {
+		line-height:18px;
+		b u{
+			margin:5px;
+			line-height: 40px;
+			font-size:18px;
+		}
+
+	}
+	h2 {
+		font-size:20px;
+		font-weight:bold;
+	}
+	a {
+		color:#369;
+		&:hover { color: #57A; }
+  		&:visited { color: #147; }
+	}
+	br {
+		margin-bottom:5px;
+	}
+	ul, ol{
+		lh{
+			line-height:40px;
+		}
 		li{
+			list-style-type:disc;
+			margin-bottom:10px;
+			margin-left:30px;
+		}
+	}
+	.link-list{
+		ul li{
 			height:50px;
 			display:block;
 			line-height: 50px;
@@ -154,6 +188,9 @@ $accentColorText: #fff;
 			a{
 				padding-left:15px;
 				display:block;
+				color: #000;
+				&:hover { color: #000; }
+  				&:visited { color: #000; }
 			}
 			&:hover{
 				@include greyGradientHover;
@@ -177,7 +214,7 @@ $accentColorText: #fff;
 			@include roundedCorner(top-left, 9px);
 			@include roundedCorner(top-right, 9px);
 		}
-		li.header{
+		li.header, li.header:hover{
 			padding-left:15px;
 			margin-bottom:1px;
 			background: $accentColor;
@@ -189,19 +226,38 @@ $accentColorText: #fff;
 			@include roundedCorner(bottom-right, 9px);
 		}
 	}
-}
-#content{
-	margin: 5px 5%;
-	p {
-		
+	/*for the transit box*/
+	#widgetbox_widget_parent_0{
+		text-align:center;
 	}
-	br {
-		margin-bottom:5px;
-	}
-	ul, ol{
-		li{
-			list-style-type:disc;
+	.jsonData{
+		.header{
+			font-size:24px;
+			font-weight:bold;
+			font-color:black;
+			margin:15px;
+		}
+		.shelterName, .city {
+			text-transform:capitalize;
+		}
+		.json-row{
+			clear:both;
+			border:1px #000 solid;
+			background-color: #fff;
+			box-sizing: border-box;
+			overflow:auto;
+			div{
+				width:25%;
+				float:left;
+				padding:10px;
+				&.shelterName, &.address{
+					width:30%;
+				}
+				&.cityState, &.openToClose {
+					width:10%;
+				}
+			}
+
 		}
 	}
-
 }

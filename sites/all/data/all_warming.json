@@ -1,0 +1,2396 @@
+[
+    {
+        "attributes": {
+            "CITY": "Bronx", 
+            "ADDRESS": "1315 FRANKLIN    AVE", 
+            "SHELTER_NAME": "ARTURO    SCHOMBERG SENIOR CENTER", 
+            "HOURS_OPEN": "9:00", 
+            "STATE": "NY", 
+            "HOURS_CLOSE": "16:00"
+        }
+    }, 
+    {
+        "attributes": {
+            "CITY": "Bronx", 
+            "ADDRESS": "1220    E 229TH ST", 
+            "SHELTER_NAME": "BAY EDEN SENIOR CENTER", 
+            "HOURS_OPEN": "9:00   ", 
+            "STATE": "NY", 
+            "HOURS_CLOSE": "16:00"
+        }
+    }, 
+    {
+        "attributes": {
+            "CITY": "Bronx", 
+            "ADDRESS": "990    PELHAM PARKWAY SOUTH", 
+            "SHELTER_NAME": "BRONX HOUSE", 
+            "HOURS_OPEN": "9:00   ", 
+            "STATE": "NY", 
+            "HOURS_CLOSE": "16:00"
+        }
+    }, 
+    {
+        "attributes": {
+            "CITY": "Bronx", 
+            "ADDRESS": "1619    E 174TH ST", 
+            "SHELTER_NAME": "BRONX RIVER SENIOR CENTER", 
+            "HOURS_OPEN": "9:00   ", 
+            "STATE": "NY", 
+            "HOURS_CLOSE": "16:00"
+        }
+    }, 
+    {
+        "attributes": {
+            "CITY": "Bronx", 
+            "ADDRESS": "515    JACKSON AVE", 
+            "SHELTER_NAME": "BRONXWORKS E ROBERTS MOORE SENIOR CENTER", 
+            "HOURS_OPEN": "9:00   ", 
+            "STATE": "NY", 
+            "HOURS_CLOSE": "16:00"
+        }
+    }, 
+    {
+        "attributes": {
+            "CITY": "Bronx", 
+            "ADDRESS": "236    E TREMONT AVE", 
+            "SHELTER_NAME": "BRONXWORKS EAST CONCOURSE SENIOR CENTER", 
+            "HOURS_OPEN": "9:00   ", 
+            "STATE": "NY", 
+            "HOURS_CLOSE": "16:00"
+        }
+    }, 
+    {
+        "attributes": {
+            "CITY": "Bronx", 
+            "ADDRESS": "200 WEST TREMONT    AVENUE", 
+            "SHELTER_NAME": "BRONXWORKS HEIGHTS SENIOR CENTER", 
+            "HOURS_OPEN": "9:00   ", 
+            "STATE": "NY", 
+            "HOURS_CLOSE": "16:00"
+        }
+    }, 
+    {
+        "attributes": {
+            "CITY": "Bronx", 
+            "ADDRESS": "80    E. 181 ST.", 
+            "SHELTER_NAME": "BRONXWORKS MORRIS ISC", 
+            "HOURS_OPEN": "9:00   ", 
+            "STATE": "NY", 
+            "HOURS_CLOSE": "16:00"
+        }
+    }, 
+    {
+        "attributes": {
+            "CITY": "Bronx", 
+            "ADDRESS": "2049    BARTOW AVE", 
+            "SHELTER_NAME": "CO-OP CITY SENIOR CENTER", 
+            "HOURS_OPEN": "9:00   ", 
+            "STATE": "NY", 
+            "HOURS_CLOSE": "16:00"
+        }
+    }, 
+    {
+        "attributes": {
+            "CITY": "Bronx", 
+            "ADDRESS": "735    E 152ND ST", 
+            "SHELTER_NAME": "DOUGLAS LEON SENIOR CENTER", 
+            "HOURS_OPEN": "9:00   ", 
+            "STATE": "NY", 
+            "HOURS_CLOSE": "16:00"
+        }
+    }, 
+    {
+        "attributes": {
+            "CITY": "Bronx", 
+            "ADDRESS": "1068    GERARD AVE", 
+            "SHELTER_NAME": "HOPE OF ISRAEL SENIOR CENTER", 
+            "HOURS_OPEN": "9:00   ", 
+            "STATE": "NY", 
+            "HOURS_CLOSE": "16:00"
+        }
+    }, 
+    {
+        "attributes": {
+            "CITY": "Bronx", 
+            "ADDRESS": "787    E. 149TH ST. (Temp Location)", 
+            "SHELTER_NAME": "IPR/HE BETANCES SENIOR CENTER", 
+            "HOURS_OPEN": "9:00   ", 
+            "STATE": "NY", 
+            "HOURS_CLOSE": "16:00"
+        }
+    }, 
+    {
+        "attributes": {
+            "CITY": "Bronx", 
+            "ADDRESS": "1776    STORY AVE", 
+            "SHELTER_NAME": "JAMES MONROE SENIOR CENTER", 
+            "HOURS_OPEN": "9:00   ", 
+            "STATE": "NY", 
+            "HOURS_CLOSE": "16:00"
+        }
+    }, 
+    {
+        "attributes": {
+            "CITY": "Bronx", 
+            "ADDRESS": "177    DREISER LOOP", 
+            "SHELTER_NAME": "JASA DREISER SENIOR CENTER", 
+            "HOURS_OPEN": "9:00   ", 
+            "STATE": "NY", 
+            "HOURS_CLOSE": "16:00"
+        }
+    }, 
+    {
+        "attributes": {
+            "CITY": "Bronx", 
+            "ADDRESS": "2705    SCHLEY AVE", 
+            "SHELTER_NAME": "JASA THROGS NECK SENIOR CENTER", 
+            "HOURS_OPEN": "9:00   ", 
+            "STATE": "NY", 
+            "HOURS_CLOSE": "16:00"
+        }
+    }, 
+    {
+        "attributes": {
+            "CITY": "Bronx", 
+            "ADDRESS": "625    CASTLE HILL Avenue", 
+            "SHELTER_NAME": "KIPS BAY CASTLE HILL SENIOR CENTER", 
+            "HOURS_OPEN": "9:00   ", 
+            "STATE": "NY", 
+            "HOURS_CLOSE": "16:00"
+        }
+    }, 
+    {
+        "attributes": {
+            "CITY": "Bronx", 
+            "ADDRESS": "5365    BROADWAY", 
+            "SHELTER_NAME": "MARBLE HILL SENIOR CENTER", 
+            "HOURS_OPEN": "9:00   ", 
+            "STATE": "NY", 
+            "HOURS_CLOSE": "16:00"
+        }
+    }, 
+    {
+        "attributes": {
+            "CITY": "Bronx", 
+            "ADDRESS": "372    E 152ND ST", 
+            "SHELTER_NAME": "MELROSE MOTT HAVEN SENIOR CENTER", 
+            "HOURS_OPEN": "9:00   ", 
+            "STATE": "NY", 
+            "HOURS_CLOSE": "16:00"
+        }
+    }, 
+    {
+        "attributes": {
+            "CITY": "Bronx", 
+            "ADDRESS": "900    GRAND CONCOURSE", 
+            "SHELTER_NAME": "MID BRONX SENIOR CITIZENS COUNCIL, INC", 
+            "HOURS_OPEN": "9:00   ", 
+            "STATE": "NY", 
+            "HOURS_CLOSE": "16:00"
+        }
+    }, 
+    {
+        "attributes": {
+            "CITY": "Bronx", 
+            "ADDRESS": "188-190    Lincoln Avenue", 
+            "SHELTER_NAME": "MITCHELL HOUSES", 
+            "HOURS_OPEN": "9:00   ", 
+            "STATE": "NY", 
+            "HOURS_CLOSE": "16:00"
+        }
+    }, 
+    {
+        "attributes": {
+            "CITY": "Bronx", 
+            "ADDRESS": "3450    DEKALB AVE", 
+            "SHELTER_NAME": "MOSHOLU MONTEFIORE SENIOR CENTER", 
+            "HOURS_OPEN": "9:00   ", 
+            "STATE": "NY", 
+            "HOURS_CLOSE": "16:00"
+        }
+    }, 
+    {
+        "attributes": {
+            "CITY": "Bronx", 
+            "ADDRESS": "2405    SOUTHERN BLVD", 
+            "SHELTER_NAME": "MT CARMEL CENTER FOR SR CITIZENS", 
+            "HOURS_OPEN": "9:00   ", 
+            "STATE": "NY", 
+            "HOURS_CLOSE": "16:00"
+        }
+    }, 
+    {
+        "attributes": {
+            "CITY": "Bronx", 
+            "ADDRESS": "910    E 172ND ST", 
+            "SHELTER_NAME": "NEIGHBORHOOD SHOPP CASA BORICUA SR CTR", 
+            "HOURS_OPEN": "9:00   ", 
+            "STATE": "NY", 
+            "HOURS_CLOSE": "16:00"
+        }
+    }, 
+    {
+        "attributes": {
+            "CITY": "Bronx", 
+            "ADDRESS": "644    ADEE AVE", 
+            "SHELTER_NAME": "PARKSIDE SENIOR CENTER", 
+            "HOURS_OPEN": "9:00   ", 
+            "STATE": "NY", 
+            "HOURS_CLOSE": "16:00"
+        }
+    }, 
+    {
+        "attributes": {
+            "CITY": "Bronx", 
+            "ADDRESS": "325    E 156TH ST", 
+            "SHELTER_NAME": "PSS ANDREW JACKSON SENIOR CENTER", 
+            "HOURS_OPEN": "9:00   ", 
+            "STATE": "NY", 
+            "HOURS_CLOSE": "16:00"
+        }
+    }, 
+    {
+        "attributes": {
+            "CITY": "Bronx", 
+            "ADDRESS": "1181    NELSON AVE", 
+            "SHELTER_NAME": "PSS HIGHBRIDGE SENIOR CENTER", 
+            "HOURS_OPEN": "9:00   ", 
+            "STATE": "NY", 
+            "HOURS_CLOSE": "16:00"
+        }
+    }, 
+    {
+        "attributes": {
+            "CITY": "Bronx", 
+            "ADDRESS": "950    UNION AVE", 
+            "SHELTER_NAME": "PSS-DAVIDSON SENIOR CENTER", 
+            "HOURS_OPEN": "9:00   ", 
+            "STATE": "NY", 
+            "HOURS_CLOSE": "16:00"
+        }
+    }, 
+    {
+        "attributes": {
+            "CITY": "Bronx", 
+            "ADDRESS": "3450    BOSTON RD", 
+            "SHELTER_NAME": "RAIN BOSTON EAST SENIOR CENTER", 
+            "HOURS_OPEN": "9:00   ", 
+            "STATE": "NY", 
+            "HOURS_CLOSE": "16:00"
+        }
+    }, 
+    {
+        "attributes": {
+            "CITY": "Bronx", 
+            "ADDRESS": "2424    BOSTON RD", 
+            "SHELTER_NAME": "RAIN BOSTON ROAD SENIOR CENTER", 
+            "HOURS_OPEN": "9:00   ", 
+            "STATE": "NY", 
+            "HOURS_CLOSE": "16:00"
+        }
+    }, 
+    {
+        "attributes": {
+            "CITY": "Bronx", 
+            "ADDRESS": "3540    BIVONA ST", 
+            "SHELTER_NAME": "RAIN BOSTON SECOR SENIOR CENTER", 
+            "HOURS_OPEN": "9:00   ", 
+            "STATE": "NY", 
+            "HOURS_CLOSE": "16:00"
+        }
+    }, 
+    {
+        "attributes": {
+            "CITY": "Bronx", 
+            "ADDRESS": "1246    BURKE AVE", 
+            "SHELTER_NAME": "RAIN EASTCHESTER SENIOR CENTER", 
+            "HOURS_OPEN": "9:00   ", 
+            "STATE": "NY", 
+            "HOURS_CLOSE": "16:00"
+        }
+    }, 
+    {
+        "attributes": {
+            "CITY": "Bronx", 
+            "ADDRESS": "3377    WHITE PLAINS RD", 
+            "SHELTER_NAME": "RAIN GUNHILL SENIOR CENTER", 
+            "HOURS_OPEN": "9:00   ", 
+            "STATE": "NY", 
+            "HOURS_CLOSE": "16:00"
+        }
+    }, 
+    {
+        "attributes": {
+            "CITY": "Bronx", 
+            "ADDRESS": "3035    MIDDLETOWN RD", 
+            "SHELTER_NAME": "RAIN MIDDLETOWN SENIOR CENTER", 
+            "HOURS_OPEN": "9:00   ", 
+            "STATE": "NY", 
+            "HOURS_CLOSE": "16:00"
+        }
+    }, 
+    {
+        "attributes": {
+            "CITY": "Bronx", 
+            "ADDRESS": "1380    METROPOLITAN AVE", 
+            "SHELTER_NAME": "RAIN PARKCHESTER SENIOR CENTER", 
+            "HOURS_OPEN": "9:00   ", 
+            "STATE": "NY", 
+            "HOURS_CLOSE": "16:00"
+        }
+    }, 
+    {
+        "attributes": {
+            "CITY": "Bronx", 
+            "ADDRESS": "2600    NETHERLAND AVE", 
+            "SHELTER_NAME": "RIVERDALE SENIOR CENTER", 
+            "HOURS_OPEN": "9:00   ", 
+            "STATE": "NY", 
+            "HOURS_CLOSE": "16:00"
+        }
+    }, 
+    {
+        "attributes": {
+            "CITY": "Bronx", 
+            "ADDRESS": "5625    ARLINGTON AVE", 
+            "SHELTER_NAME": "RIVERDALE Y SENIOR CENTER", 
+            "HOURS_OPEN": "9:00   ", 
+            "STATE": "NY", 
+            "HOURS_CLOSE": "16:00"
+        }
+    }, 
+    {
+        "attributes": {
+            "CITY": "Bronx", 
+            "ADDRESS": "887    SOUTHERN BLVD", 
+            "SHELTER_NAME": "SEBCO SENIOR PROGRAMS", 
+            "HOURS_OPEN": "9:00   ", 
+            "STATE": "NY", 
+            "HOURS_CLOSE": "16:00"
+        }
+    }, 
+    {
+        "attributes": {
+            "CITY": "Bronx", 
+            "ADDRESS": "243    E 204TH ST", 
+            "SHELTER_NAME": "SISTER ANNUNCIATA BETHEL SENIOR CENTER", 
+            "HOURS_OPEN": "9:00   ", 
+            "STATE": "NY", 
+            "HOURS_CLOSE": "16:00"
+        }
+    }, 
+    {
+        "attributes": {
+            "CITY": "Bronx", 
+            "ADDRESS": "2070    CLINTON AVENUE", 
+            "SHELTER_NAME": "THOMAS L. GUESS COMMUNITY SENIOR CENTER", 
+            "HOURS_OPEN": "9:00   ", 
+            "STATE": "NY", 
+            "HOURS_CLOSE": "16:00"
+        }
+    }, 
+    {
+        "attributes": {
+            "CITY": "Bronx", 
+            "ADDRESS": "3880    SEDGWICK AVE", 
+            "SHELTER_NAME": "VAN CORTLANDT SENIOR CENTER", 
+            "HOURS_OPEN": "9:00   ", 
+            "STATE": "NY", 
+            "HOURS_CLOSE": "16:00"
+        }
+    }, 
+    {
+        "attributes": {
+            "CITY": "Bronx", 
+            "ADDRESS": "1320    WEBSTER AVE", 
+            "SHELTER_NAME": "WILLIAM HODSON SENIOR CENTER", 
+            "HOURS_OPEN": "9:00   ", 
+            "STATE": "NY", 
+            "HOURS_CLOSE": "16:00"
+        }
+    }, 
+    {
+        "attributes": {
+            "CITY": "Brooklyn", 
+            "ADDRESS": "103-15    FARRAGUT RD", 
+            "SHELTER_NAME": "ABE STARK SENIOR CENTER", 
+            "HOURS_OPEN": "9:00   ", 
+            "STATE": "NY", 
+            "HOURS_CLOSE": "16:00"
+        }
+    }, 
+    {
+        "attributes": {
+            "CITY": "Brooklyn", 
+            "ADDRESS": "5901    13TH AVE", 
+            "SHELTER_NAME": "AMICO 59TH STREET SENIOR CENTER", 
+            "HOURS_OPEN": "9:00   ", 
+            "STATE": "NY", 
+            "HOURS_CLOSE": "16:00"
+        }
+    }, 
+    {
+        "attributes": {
+            "CITY": "Brooklyn", 
+            "ADDRESS": "411    Ovington Avenue", 
+            "SHELTER_NAME": "BAY RIDGE CENTER FOR OLDER ADULTS", 
+            "HOURS_OPEN": "9:00   ", 
+            "STATE": "NY", 
+            "HOURS_CLOSE": "16:00"
+        }
+    }, 
+    {
+        "attributes": {
+            "CITY": "Brooklyn", 
+            "ADDRESS": "5955 Shore Parkway", 
+            "SHELTER_NAME": "BAY VIEW COMMUNITY CENTER (Not a DFTA SC)", 
+            "HOURS_OPEN": "9:00   ", 
+            "STATE": "NY", 
+            "HOURS_CLOSE": "16:00"
+        }
+    }, 
+    {
+        "attributes": {
+            "CITY": "Brooklyn", 
+            "ADDRESS": "7802    Bay Parkway", 
+            "SHELTER_NAME": "BENSONHURST SENIOR CENTER", 
+            "HOURS_OPEN": "9:00   ", 
+            "STATE": "NY", 
+            "HOURS_CLOSE": "17:00"
+        }
+    }, 
+    {
+        "attributes": {
+            "CITY": "Brooklyn", 
+            "ADDRESS": "80    Seigel Street", 
+            "SHELTER_NAME": "BORINQUEN PLAZA NUTRITION CENTER", 
+            "HOURS_OPEN": "9:00   ", 
+            "STATE": "NY", 
+            "HOURS_CLOSE": "16:00"
+        }
+    }, 
+    {
+        "attributes": {
+            "CITY": "Brooklyn", 
+            "ADDRESS": "5602    11th Avenue", 
+            "SHELTER_NAME": "BORO PARK SENIOR CENTER", 
+            "HOURS_OPEN": "9:00   ", 
+            "STATE": "NY", 
+            "HOURS_CLOSE": "16:00"
+        }
+    }, 
+    {
+        "attributes": {
+            "CITY": "Brooklyn", 
+            "ADDRESS": "4912    14TH AVE", 
+            "SHELTER_NAME": "BORO PARK YM-YWHA SENIOR CENTER", 
+            "HOURS_OPEN": "9:00   ", 
+            "STATE": "NY", 
+            "HOURS_CLOSE": "16:00"
+        }
+    }, 
+    {
+        "attributes": {
+            "CITY": "Brooklyn", 
+            "ADDRESS": "811-823    AVE H", 
+            "SHELTER_NAME": "BROOKDALE SENIOR CITIZENS CENTER", 
+            "HOURS_OPEN": "9:00   ", 
+            "STATE": "NY", 
+            "HOURS_CLOSE": "16:00"
+        }
+    }, 
+    {
+        "attributes": {
+            "CITY": "Brooklyn", 
+            "ADDRESS": "5701    Avenue H", 
+            "SHELTER_NAME": "CCNS\u00a0 GLENWOOD SENIOR    CENTER", 
+            "HOURS_OPEN": "9:00   ", 
+            "STATE": "NY", 
+            "HOURS_CLOSE": "16:00"
+        }
+    }, 
+    {
+        "attributes": {
+            "CITY": "Brooklyn", 
+            "ADDRESS": "715    Leonard Street", 
+            "SHELTER_NAME": "CCNS MCGUINESS NORTHSIDE SENIOR CENTER", 
+            "HOURS_OPEN": "9:00   ", 
+            "STATE": "NY", 
+            "HOURS_CLOSE": "16:00"
+        }
+    }, 
+    {
+        "attributes": {
+            "CITY": "Brooklyn", 
+            "ADDRESS": "1230    63rd Street", 
+            "SHELTER_NAME": "CCNS NARROWS SENIOR CENTER", 
+            "HOURS_OPEN": "9:00   ", 
+            "STATE": "NY", 
+            "HOURS_CLOSE": "16:00"
+        }
+    }, 
+    {
+        "attributes": {
+            "CITY": "Brooklyn", 
+            "ADDRESS": "179    North 6th Street", 
+            "SHELTER_NAME": "CCNS NORTHSIDE SENIOR CENTER", 
+            "HOURS_OPEN": "9:00   ", 
+            "STATE": "NY", 
+            "HOURS_CLOSE": "16:00"
+        }
+    }, 
+    {
+        "attributes": {
+            "CITY": "Brooklyn", 
+            "ADDRESS": "230    Kingston Avenue", 
+            "SHELTER_NAME": "CCNS SAINT LOUIS SENIOR CENTER", 
+            "HOURS_OPEN": "9:00   ", 
+            "STATE": "NY", 
+            "HOURS_CLOSE": "16:00"
+        }
+    }, 
+    {
+        "attributes": {
+            "CITY": "Brooklyn", 
+            "ADDRESS": "55    Pierrepont Street", 
+            "SHELTER_NAME": "CCNS ST CHARLES JUBILEE SENIOR CENTER", 
+            "HOURS_OPEN": "9:00   ", 
+            "STATE": "NY", 
+            "HOURS_CLOSE": "16:00"
+        }
+    }, 
+    {
+        "attributes": {
+            "CITY": "Brooklyn", 
+            "ADDRESS": "3643    NOSTRAND AVE", 
+            "SHELTER_NAME": "CCNS THE BAY SENIOR CENTER", 
+            "HOURS_OPEN": "9:00   ", 
+            "STATE": "NY", 
+            "HOURS_CLOSE": "16:00"
+        }
+    }, 
+    {
+        "attributes": {
+            "CITY": "Brooklyn", 
+            "ADDRESS": "720    EAST NEW YORK AVE", 
+            "SHELTER_NAME": "CHRISTOPHER C BLENMAN SENIOR CENTER", 
+            "HOURS_OPEN": "9:00   ", 
+            "STATE": "NY", 
+            "HOURS_CLOSE": "16:00"
+        }
+    }, 
+    {
+        "attributes": {
+            "CITY": "Brooklyn", 
+            "ADDRESS": "1001    Quentin Road", 
+            "SHELTER_NAME": "COUNCIL CENTER FOR SENIOR CITIZENS", 
+            "HOURS_OPEN": "9:00   ", 
+            "STATE": "NY", 
+            "HOURS_CLOSE": "16:00"
+        }
+    }, 
+    {
+        "attributes": {
+            "CITY": "Brooklyn", 
+            "ADDRESS": "3208    Fulton Street", 
+            "SHELTER_NAME": "CYPRESS HILLS FULTON ST SR CENTER", 
+            "HOURS_OPEN": "9:00   ", 
+            "STATE": "NY", 
+            "HOURS_CLOSE": "16:00"
+        }
+    }, 
+    {
+        "attributes": {
+            "CITY": "Brooklyn", 
+            "ADDRESS": "9    Noll Street", 
+            "SHELTER_NAME": "DIANA JONES SENIOR CENTER", 
+            "HOURS_OPEN": "9:00   ", 
+            "STATE": "NY", 
+            "HOURS_CLOSE": "16:00"
+        }
+    }, 
+    {
+        "attributes": {
+            "CITY": "Brooklyn", 
+            "ADDRESS": "1419    Dorchester Road", 
+            "SHELTER_NAME": "DORCHESTER SENIOR CENTER", 
+            "HOURS_OPEN": "9:00   ", 
+            "STATE": "NY", 
+            "HOURS_CLOSE": "16:00"
+        }
+    }, 
+    {
+        "attributes": {
+            "CITY": "Brooklyn", 
+            "ADDRESS": "2702    Linden Boulevard", 
+            "SHELTER_NAME": "FGC TERESA MOORE SENIOR CENTER", 
+            "HOURS_OPEN": "9:00   ", 
+            "STATE": "NY", 
+            "HOURS_CLOSE": "16:00"
+        }
+    }, 
+    {
+        "attributes": {
+            "CITY": "Brooklyn", 
+            "ADDRESS": "196    ALBANY AVE", 
+            "SHELTER_NAME": "FORT GREENE ALBANY SENIOR CENTER", 
+            "HOURS_OPEN": "9:00   ", 
+            "STATE": "NY", 
+            "HOURS_CLOSE": "16:00"
+        }
+    }, 
+    {
+        "attributes": {
+            "CITY": "Brooklyn", 
+            "ADDRESS": "961    Ocean Avenue", 
+            "SHELTER_NAME": "FORT GREENE HAZEL BROOKS SENIOR CENTER", 
+            "HOURS_OPEN": "9:00   ", 
+            "STATE": "NY", 
+            "HOURS_CLOSE": "16:00"
+        }
+    }, 
+    {
+        "attributes": {
+            "CITY": "Brooklyn", 
+            "ADDRESS": "19    ROGERS AVE", 
+            "SHELTER_NAME": "FT GREENE GRANT SQUARE SENIOR CENTER", 
+            "HOURS_OPEN": "9:00   ", 
+            "STATE": "NY", 
+            "HOURS_CLOSE": "16:00"
+        }
+    }, 
+    {
+        "attributes": {
+            "CITY": "Brooklyn", 
+            "ADDRESS": "69    MacDonough Street", 
+            "SHELTER_NAME": "FT GREENE STUYVESANT HEIGHTS SENIOR CTR", 
+            "HOURS_OPEN": "9:00   ", 
+            "STATE": "NY", 
+            "HOURS_CLOSE": "16:00"
+        }
+    }, 
+    {
+        "attributes": {
+            "CITY": "Brooklyn", 
+            "ADDRESS": "966    Fulton Street", 
+            "SHELTER_NAME": "GRACE AGARD HAREWOOD SENIOR CENTER", 
+            "HOURS_OPEN": "9:00   ", 
+            "STATE": "NY", 
+            "HOURS_CLOSE": "16:00"
+        }
+    }, 
+    {
+        "attributes": {
+            "CITY": "Brooklyn", 
+            "ADDRESS": "447    KINGSBOROUGH 4 WALK", 
+            "SHELTER_NAME": "H GILROY SENIOR CENTER", 
+            "HOURS_OPEN": "9:00   ", 
+            "STATE": "NY", 
+            "HOURS_CLOSE": "16:00"
+        }
+    }, 
+    {
+        "attributes": {
+            "CITY": "Brooklyn", 
+            "ADDRESS": "195    Linden Street", 
+            "SHELTER_NAME": "HOPE GARDENS SENIOR CENTER", 
+            "HOURS_OPEN": "9:00   ", 
+            "STATE": "NY", 
+            "HOURS_CLOSE": "16:00"
+        }
+    }, 
+    {
+        "attributes": {
+            "CITY": "Brooklyn", 
+            "ADDRESS": "6222 23RD AVENUE", 
+            "SHELTER_NAME": "HOUSE OF JACOB", 
+            "HOURS_OPEN": "8:30   ", 
+            "STATE": "NY", 
+            "HOURS_CLOSE": "16:30"
+        }
+    }, 
+    {
+        "attributes": {
+            "CITY": "Brooklyn", 
+            "ADDRESS": "9502    Seaview Avenue", 
+            "SHELTER_NAME": "JASA HES SENIOR CENTER", 
+            "HOURS_OPEN": "9:00   ", 
+            "STATE": "NY", 
+            "HOURS_CLOSE": "17:00"
+        }
+    }, 
+    {
+        "attributes": {
+            "CITY": "Brooklyn", 
+            "ADDRESS": "2880    W 12 ST", 
+            "SHELTER_NAME": "JASA LUNA PARK SENIOR CENTER", 
+            "HOURS_OPEN": "9:00   ", 
+            "STATE": "NY", 
+            "HOURS_CLOSE": "18:00"
+        }
+    }, 
+    {
+        "attributes": {
+            "CITY": "Brooklyn", 
+            "ADDRESS": "2075    EAST 68 STREET", 
+            "SHELTER_NAME": "JASA MILL BASIN SENIOR CENTER", 
+            "HOURS_OPEN": "8:00   ", 
+            "STATE": "NY", 
+            "HOURS_CLOSE": "16:00"
+        }
+    }, 
+    {
+        "attributes": {
+            "CITY": "Brooklyn", 
+            "ADDRESS": "3601    SURF AVENUE", 
+            "SHELTER_NAME": "JASA SCHEUER HOUSE OF CONEY ISL SR CTR", 
+            "HOURS_OPEN": null, 
+            "STATE": "NY", 
+            "HOURS_CLOSE": null
+        }
+    }, 
+    {
+        "attributes": {
+            "CITY": "Brooklyn", 
+            "ADDRESS": "3300    CONEY ISLAND AVE", 
+            "SHELTER_NAME": "JASA SHOREFRONT SENIOR CENTER", 
+            "HOURS_OPEN": "9:00   ", 
+            "STATE": "NY", 
+            "HOURS_CLOSE": "17:00"
+        }
+    }, 
+    {
+        "attributes": {
+            "CITY": "Brooklyn", 
+            "ADDRESS": "1540    Van Siclen Avenue", 
+            "SHELTER_NAME": "JASA STARRETT CITY SENIOR CENTER", 
+            "HOURS_OPEN": "9:00   ", 
+            "STATE": "NY", 
+            "HOURS_CLOSE": "17:00"
+        }
+    }, 
+    {
+        "attributes": {
+            "CITY": "Brooklyn", 
+            "ADDRESS": "202    Graham Avenue", 
+            "SHELTER_NAME": "JASA WILLIAMSBURG SENIOR CENTER", 
+            "HOURS_OPEN": "9:00   ", 
+            "STATE": "NY", 
+            "HOURS_CLOSE": "16:00"
+        }
+    }, 
+    {
+        "attributes": {
+            "CITY": "Brooklyn", 
+            "ADDRESS": "2600    OCEAN AVE", 
+            "SHELTER_NAME": "JAY SENIOR CENTER", 
+            "HOURS_OPEN": "9:00   ", 
+            "STATE": "NY", 
+            "HOURS_CLOSE": "17:00"
+        }
+    }, 
+    {
+        "attributes": {
+            "CITY": "Brooklyn", 
+            "ADDRESS": "2335    Bergen Avenue", 
+            "SHELTER_NAME": "JOHN MALONE CENTER", 
+            "HOURS_OPEN": "9:00   ", 
+            "STATE": "NY", 
+            "HOURS_CLOSE": "16:00"
+        }
+    }, 
+    {
+        "attributes": {
+            "CITY": "Brooklyn", 
+            "ADDRESS": "176    Java Street", 
+            "SHELTER_NAME": "KRAKUS LUNCHEON CLUB SENIOR CENTER", 
+            "HOURS_OPEN": "9:00   ", 
+            "STATE": "NY", 
+            "HOURS_CLOSE": "16:00"
+        }
+    }, 
+    {
+        "attributes": {
+            "CITY": "Brooklyn", 
+            "ADDRESS": "201    South 4th Street", 
+            "SHELTER_NAME": "LOS SURES SENIOR CENTER", 
+            "HOURS_OPEN": "9:00   ", 
+            "STATE": "NY", 
+            "HOURS_CLOSE": "16:00"
+        }
+    }, 
+    {
+        "attributes": {
+            "CITY": "Brooklyn", 
+            "ADDRESS": "400    Hart Street", 
+            "SHELTER_NAME": "MARIA LAWTON SENIOR CENTER", 
+            "HOURS_OPEN": "9:00   ", 
+            "STATE": "NY", 
+            "HOURS_CLOSE": "16:00"
+        }
+    }, 
+    {
+        "attributes": {
+            "CITY": "Brooklyn", 
+            "ADDRESS": "2298    W. 8th Street", 
+            "SHELTER_NAME": "MARLBORO\u00a0 SENIOR CENTER", 
+            "HOURS_OPEN": "8:00   ", 
+            "STATE": "NY", 
+            "HOURS_CLOSE": "18:00"
+        }
+    }, 
+    {
+        "attributes": {
+            "CITY": "Brooklyn", 
+            "ADDRESS": "4815    AVE I", 
+            "SHELTER_NAME": "MIDWOOD SENIOR CENTER", 
+            "HOURS_OPEN": "9:00   ", 
+            "STATE": "NY", 
+            "HOURS_CLOSE": "16:00"
+        }
+    }, 
+    {
+        "attributes": {
+            "CITY": "Brooklyn", 
+            "ADDRESS": "1625    Ocean Avenue", 
+            "SHELTER_NAME": "MIDWOOD SENIOR LEAGUE SATELITE", 
+            "HOURS_OPEN": "8:00   ", 
+            "STATE": "NY", 
+            "HOURS_CLOSE": "16:00"
+        }
+    }, 
+    {
+        "attributes": {
+            "CITY": "Brooklyn", 
+            "ADDRESS": "7711    18TH AVE", 
+            "SHELTER_NAME": "MOOSE LODGE SENIOR CENTER", 
+            "HOURS_OPEN": "9:00   ", 
+            "STATE": "NY", 
+            "HOURS_CLOSE": "16:00"
+        }
+    }, 
+    {
+        "attributes": {
+            "CITY": "Brooklyn", 
+            "ADDRESS": "1960    E 7TH ST", 
+            "SHELTER_NAME": "OCEAN PARKWAY SENIOR CITIZENS CENTER", 
+            "HOURS_OPEN": "8:00   ", 
+            "STATE": "NY", 
+            "HOURS_CLOSE": "18:00"
+        }
+    }, 
+    {
+        "attributes": {
+            "CITY": "Brooklyn", 
+            "ADDRESS": "110    West 9th Street", 
+            "SHELTER_NAME": "RED HOOK/PAL MICCIO CENTER", 
+            "HOURS_OPEN": null, 
+            "STATE": "NY", 
+            "HOURS_CLOSE": null
+        }
+    }, 
+    {
+        "attributes": {
+            "CITY": "Brooklyn", 
+            "ADDRESS": "463    A 7th Street", 
+            "SHELTER_NAME": "PARK SLOPE SENIOR CITIZENS CENTER", 
+            "HOURS_OPEN": "9:00   ", 
+            "STATE": "NY", 
+            "HOURS_CLOSE": "16:00"
+        }
+    }, 
+    {
+        "attributes": {
+            "CITY": "Brooklyn", 
+            "ADDRESS": "895    Pennsylvania Avenue", 
+            "SHELTER_NAME": "PENN WORTMAN ACTIVE ADULTS", 
+            "HOURS_OPEN": "9:00   ", 
+            "STATE": "NY", 
+            "HOURS_CLOSE": "16:00"
+        }
+    }, 
+    {
+        "attributes": {
+            "CITY": "Brooklyn", 
+            "ADDRESS": "283    Prospect Avenue", 
+            "SHELTER_NAME": "PROSPECT HILL SENIOR CENTER", 
+            "HOURS_OPEN": "8:00   ", 
+            "STATE": "NY", 
+            "HOURS_CLOSE": "16:00"
+        }
+    }, 
+    {
+        "attributes": {
+            "CITY": "Brooklyn", 
+            "ADDRESS": "319    Stanhope Street", 
+            "SHELTER_NAME": "RIDGEWOOD BUSHWICK SENIOR CENTER", 
+            "HOURS_OPEN": "9:00   ", 
+            "STATE": "NY", 
+            "HOURS_CLOSE": "16:00"
+        }
+    }, 
+    {
+        "attributes": {
+            "CITY": "Brooklyn", 
+            "ADDRESS": "460    Dumont Avenue", 
+            "SHELTER_NAME": "ROSETTA GASTON SENIOR CENTER", 
+            "HOURS_OPEN": "9:00   ", 
+            "STATE": "NY", 
+            "HOURS_CLOSE": "16:00"
+        }
+    }, 
+    {
+        "attributes": {
+            "CITY": "Brooklyn", 
+            "ADDRESS": "1175    Gates Avenue", 
+            "SHELTER_NAME": "ROUNDTABLE SENIOR CITIZENS CENTER", 
+            "HOURS_OPEN": "9:00   ", 
+            "STATE": "NY", 
+            "HOURS_CLOSE": "16:00"
+        }
+    }, 
+    {
+        "attributes": {
+            "CITY": "Brooklyn", 
+            "ADDRESS": "331    HAWTHORNE STREET", 
+            "SHELTER_NAME": "SAINT GABRIELS SENIOR CENTER", 
+            "HOURS_OPEN": "9:00   ", 
+            "STATE": "NY", 
+            "HOURS_CLOSE": "16:00"
+        }
+    }, 
+    {
+        "attributes": {
+            "CITY": "Brooklyn", 
+            "ADDRESS": "482-485    Kings Highway", 
+            "SHELTER_NAME": "SEPHARDIC SENIOR CENTER", 
+            "HOURS_OPEN": "8:00   ", 
+            "STATE": "NY", 
+            "HOURS_CLOSE": "16:00"
+        }
+    }, 
+    {
+        "attributes": {
+            "CITY": "Brooklyn", 
+            "ADDRESS": "483    Albany Avenue", 
+            "SHELTER_NAME": "SHALOM SENIOR CENTER", 
+            "HOURS_OPEN": "9:00   ", 
+            "STATE": "NY", 
+            "HOURS_CLOSE": "16:00"
+        }
+    }, 
+    {
+        "attributes": {
+            "CITY": "Brooklyn", 
+            "ADDRESS": "9000    Shore Road", 
+            "SHELTER_NAME": "SHORE HILL SENIOR CENTER", 
+            "HOURS_OPEN": "9:00   ", 
+            "STATE": "NY", 
+            "HOURS_CLOSE": "16:00"
+        }
+    }, 
+    {
+        "attributes": {
+            "CITY": "Brooklyn", 
+            "ADDRESS": "550    OCEAN PARKWAY", 
+            "SHELTER_NAME": "SR CITIZENS LEAGUE OF FLATBUSH", 
+            "HOURS_OPEN": "9:00   ", 
+            "STATE": "NY", 
+            "HOURS_CLOSE": "16:00"
+        }
+    }, 
+    {
+        "attributes": {
+            "CITY": "Brooklyn", 
+            "ADDRESS": "4520    4th Avenue", 
+            "SHELTER_NAME": "SUNSET PARK SENIOR CENTER", 
+            "HOURS_OPEN": "9:00   ", 
+            "STATE": "NY", 
+            "HOURS_CLOSE": "16:00"
+        }
+    }, 
+    {
+        "attributes": {
+            "CITY": "Brooklyn", 
+            "ADDRESS": "630    MOTHER GASTON BLVD", 
+            "SHELTER_NAME": "TILDEN SENIOR CENTER", 
+            "HOURS_OPEN": "9:00   ", 
+            "STATE": "NY", 
+            "HOURS_CLOSE": "16:00"
+        }
+    }, 
+    {
+        "attributes": {
+            "CITY": "Brooklyn", 
+            "ADDRESS": "460    Atlantic Avenue", 
+            "SHELTER_NAME": "TIMES PLAZA SENIOR CENTER", 
+            "HOURS_OPEN": "8:00   ", 
+            "STATE": "NY", 
+            "HOURS_CLOSE": "16:00"
+        }
+    }, 
+    {
+        "attributes": {
+            "CITY": "Brooklyn", 
+            "ADDRESS": "475    53RD ST", 
+            "SHELTER_NAME": "UNITED SENIOR CITIZENS CENTER", 
+            "HOURS_OPEN": "9:00   ", 
+            "STATE": "NY", 
+            "HOURS_CLOSE": "16:00"
+        }
+    }, 
+    {
+        "attributes": {
+            "CITY": "Brooklyn", 
+            "ADDRESS": "430    Dumont Avenue", 
+            "SHELTER_NAME": "VAN DYKE SENIOR CENTER", 
+            "HOURS_OPEN": "9:00   ", 
+            "STATE": "NY", 
+            "HOURS_CLOSE": "16:00"
+        }
+    }, 
+    {
+        "attributes": {
+            "CITY": "Brooklyn", 
+            "ADDRESS": "47    Vandalia Avenue", 
+            "SHELTER_NAME": "VANDALIA SENIOR CENTER", 
+            "HOURS_OPEN": "8:00   ", 
+            "STATE": "NY", 
+            "HOURS_CLOSE": "16:00"
+        }
+    }, 
+    {
+        "attributes": {
+            "CITY": "Brooklyn", 
+            "ADDRESS": "550    Greene Avenue", 
+            "SHELTER_NAME": "WAYSIDE TOMPKINS PARK SENIOR CENTER", 
+            "HOURS_OPEN": "9:00   ", 
+            "STATE": "NY", 
+            "HOURS_CLOSE": "16:00"
+        }
+    }, 
+    {
+        "attributes": {
+            "CITY": "Brooklyn", 
+            "ADDRESS": "125    HEYWARD STREET", 
+            "SHELTER_NAME": "WILLIAMSBURG-SATMAR SENIOR CENTER", 
+            "HOURS_OPEN": "9:00   ", 
+            "STATE": "NY", 
+            "HOURS_CLOSE": "16:00"
+        }
+    }, 
+    {
+        "attributes": {
+            "CITY": "Brooklyn", 
+            "ADDRESS": "105    North Portland Avenue", 
+            "SHELTER_NAME": "WILLOUGHBY SENIOR CENTER", 
+            "HOURS_OPEN": "9:00   ", 
+            "STATE": "NY", 
+            "HOURS_CLOSE": "17:00"
+        }
+    }, 
+    {
+        "attributes": {
+            "CITY": "Brooklyn", 
+            "ADDRESS": "280    Wyckoff Street", 
+            "SHELTER_NAME": "WYCKOFF GARDENS SENIOR CENTER", 
+            "HOURS_OPEN": "9:00   ", 
+            "STATE": "NY", 
+            "HOURS_CLOSE": "16:00"
+        }
+    }, 
+    {
+        "attributes": {
+            "CITY": "Brooklyn", 
+            "ADDRESS": "2114    BROWN STREET", 
+            "SHELTER_NAME": "YOUNG ISRAEL BEDFORD BAY", 
+            "HOURS_OPEN": "9:00   ", 
+            "STATE": "NY", 
+            "HOURS_CLOSE": "16:00"
+        }
+    }, 
+    {
+        "attributes": {
+            "CITY": "Brooklyn", 
+            "ADDRESS": "1694    OCEAN AVE", 
+            "SHELTER_NAME": "YOUNG ISRAEL OF MIDWOOD SENIOR CENTER", 
+            "HOURS_OPEN": "9:00   ", 
+            "STATE": "NY", 
+            "HOURS_CLOSE": "16:00"
+        }
+    }, 
+    {
+        "attributes": {
+            "CITY": "Manhattan", 
+            "ADDRESS": "108    W 146TH ST", 
+            "SHELTER_NAME": "A PHILIP RANDOLPH SENIOR CENTER", 
+            "HOURS_OPEN": "9:00   ", 
+            "STATE": "NY", 
+            "HOURS_CLOSE": "16:00"
+        }
+    }, 
+    {
+        "attributes": {
+            "CITY": "Manhattan", 
+            "ADDRESS": "4111    BROADWAY", 
+            "SHELTER_NAME": "ARC FT WASHINGTON SENIOR CENTER", 
+            "HOURS_OPEN": "9:00   ", 
+            "STATE": "NY", 
+            "HOURS_CLOSE": "16:00"
+        }
+    }, 
+    {
+        "attributes": {
+            "CITY": "Manhattan", 
+            "ADDRESS": "221    W 107TH ST", 
+            "SHELTER_NAME": "ASSOC OF BLACK SOCIAL WORKERS SR CENTER", 
+            "HOURS_OPEN": "9:00   ", 
+            "STATE": "NY", 
+            "HOURS_CLOSE": "16:00"
+        }
+    }, 
+    {
+        "attributes": {
+            "CITY": "Manhattan", 
+            "ADDRESS": "30    DELANCY ST", 
+            "SHELTER_NAME": "BRC SENIOR NUTRITION PROGRAM", 
+            "HOURS_OPEN": "9:00   ", 
+            "STATE": "NY", 
+            "HOURS_CLOSE": "16:00"
+        }
+    }, 
+    {
+        "attributes": {
+            "CITY": "Manhattan", 
+            "ADDRESS": "10    LENOX AVENUE", 
+            "SHELTER_NAME": "CANAAN SENIOR SERVICE CENTER", 
+            "HOURS_OPEN": "9:00   ", 
+            "STATE": "NY", 
+            "HOURS_CLOSE": "16:00"
+        }
+    }, 
+    {
+        "attributes": {
+            "CITY": "Manhattan", 
+            "ADDRESS": "351    E 74TH ST", 
+            "SHELTER_NAME": "CARTER BURDEN LUNCHEON CLUB", 
+            "HOURS_OPEN": "9:00   ", 
+            "STATE": "NY", 
+            "HOURS_CLOSE": "16:00"
+        }
+    }, 
+    {
+        "attributes": {
+            "CITY": "Manhattan", 
+            "ADDRESS": "55    E 102ND ST", 
+            "SHELTER_NAME": "CARVER SENIOR CENTER", 
+            "HOURS_OPEN": "9:00   ", 
+            "STATE": "NY", 
+            "HOURS_CLOSE": "16:00"
+        }
+    }, 
+    {
+        "attributes": {
+            "CITY": "Manhattan", 
+            "ADDRESS": "20    WASHINGTON SQ NO", 
+            "SHELTER_NAME": "CENTER ON THE SQUARE SENIOR CENTER", 
+            "HOURS_OPEN": "9:00   ", 
+            "STATE": "NY", 
+            "HOURS_CLOSE": "17:00"
+        }
+    }, 
+    {
+        "attributes": {
+            "CITY": "Manhattan", 
+            "ADDRESS": "100    GOLD ST", 
+            "SHELTER_NAME": "CITY HALL SENIOR CENTER", 
+            "HOURS_OPEN": "9:00   ", 
+            "STATE": "NY", 
+            "HOURS_CLOSE": "18:00"
+        }
+    }, 
+    {
+        "attributes": {
+            "CITY": "Manhattan", 
+            "ADDRESS": "155    East 22nd Street", 
+            "SHELTER_NAME": "COMMUNITY LOUNGE", 
+            "HOURS_OPEN": "8:00   ", 
+            "STATE": "NY", 
+            "HOURS_CLOSE": "16:00"
+        }
+    }, 
+    {
+        "attributes": {
+            "CITY": "Manhattan", 
+            "ADDRESS": "307    E 116TH ST", 
+            "SHELTER_NAME": "CORSI HOUSE SENIOR CENTER", 
+            "HOURS_OPEN": "9:00   ", 
+            "STATE": "NY", 
+            "HOURS_CLOSE": "16:00"
+        }
+    }, 
+    {
+        "attributes": {
+            "CITY": "Manhattan", 
+            "ADDRESS": "2005    AMSTERDAM AVE", 
+            "SHELTER_NAME": "COTHOA LUNCHEON CLUB SENIOR CENTER", 
+            "HOURS_OPEN": "9:00   ", 
+            "STATE": "NY", 
+            "HOURS_CLOSE": "16:00"
+        }
+    }, 
+    {
+        "attributes": {
+            "CITY": "Manhattan", 
+            "ADDRESS": "168    GRAND STREET", 
+            "SHELTER_NAME": "CPC OPEN DOOR", 
+            "HOURS_OPEN": "8:30   ", 
+            "STATE": "NY", 
+            "HOURS_CLOSE": "18:00"
+        }
+    }, 
+    {
+        "attributes": {
+            "CITY": "Manhattan", 
+            "ADDRESS": "3754    10TH AVE", 
+            "SHELTER_NAME": "DYCKMAN SENIOR CENTER", 
+            "HOURS_OPEN": "9:00   ", 
+            "STATE": "NY", 
+            "HOURS_CLOSE": "16:00"
+        }
+    }, 
+    {
+        "attributes": {
+            "CITY": "Manhattan", 
+            "ADDRESS": "150    E 121ST ST", 
+            "SHELTER_NAME": "E. HARLEM CNCL CASABE HOUSES SR CENTER", 
+            "HOURS_OPEN": "9:00   ", 
+            "STATE": "NY", 
+            "HOURS_CLOSE": "16:00"
+        }
+    }, 
+    {
+        "attributes": {
+            "CITY": "Manhattan", 
+            "ADDRESS": "239    W 49TH ST", 
+            "SHELTER_NAME": "ENCORE LUNCHEON CLUB", 
+            "HOURS_OPEN": "9:00   ", 
+            "STATE": "NY", 
+            "HOURS_CLOSE": "16:00"
+        }
+    }, 
+    {
+        "attributes": {
+            "CITY": "Manhattan", 
+            "ADDRESS": "2029    2ND AVE", 
+            "SHELTER_NAME": "GAYLORD WHITE SENIOR CENTER", 
+            "HOURS_OPEN": "9:00   ", 
+            "STATE": "NY", 
+            "HOURS_CLOSE": "16:00"
+        }
+    }, 
+    {
+        "attributes": {
+            "CITY": "Manhattan", 
+            "ADDRESS": "593    COLUMBUS AVE", 
+            "SHELTER_NAME": "GODDARD-RIVERSIDE SENIOR CENTER", 
+            "HOURS_OPEN": "9:00   ", 
+            "STATE": "NY", 
+            "HOURS_CLOSE": "16:00"
+        }
+    }, 
+    {
+        "attributes": {
+            "CITY": "Manhattan", 
+            "ADDRESS": "334    MADISON ST", 
+            "SHELTER_NAME": "GOOD COMPANIONS SENIOR CENTER", 
+            "HOURS_OPEN": "9:00   ", 
+            "STATE": "NY", 
+            "HOURS_CLOSE": "18:00"
+        }
+    }, 
+    {
+        "attributes": {
+            "CITY": "Manhattan", 
+            "ADDRESS": "80    PITT ST", 
+            "SHELTER_NAME": "GRAND COALITION OF SENIORS", 
+            "HOURS_OPEN": "8:00   ", 
+            "STATE": "NY", 
+            "HOURS_CLOSE": "16:00"
+        }
+    }, 
+    {
+        "attributes": {
+            "CITY": "Manhattan", 
+            "ADDRESS": "420    WEST 145 STREET", 
+            "SHELTER_NAME": "HAMILTON GRANGE SENIOR CENTER", 
+            "HOURS_OPEN": "9:00   ", 
+            "STATE": "NY", 
+            "HOURS_CLOSE": "16:00"
+        }
+    }, 
+    {
+        "attributes": {
+            "CITY": "Manhattan", 
+            "ADDRESS": "250    W 65TH ST", 
+            "SHELTER_NAME": "HEALTH4LIFE SENIOR CENTER", 
+            "HOURS_OPEN": "9:00   ", 
+            "STATE": "NY", 
+            "HOURS_CLOSE": "16:00"
+        }
+    }, 
+    {
+        "attributes": {
+            "CITY": "Manhattan", 
+            "ADDRESS": "119    NINTH AVE", 
+            "SHELTER_NAME": "HUDSON GUILD SENIOR SERVICES", 
+            "HOURS_OPEN": "9:00   ", 
+            "STATE": "NY", 
+            "HOURS_CLOSE": "21:00"
+        }
+    }, 
+    {
+        "attributes": {
+            "CITY": "Manhattan", 
+            "ADDRESS": "310    GREENWICH STREET", 
+            "SHELTER_NAME": "INDEPENDENCE PLAZA", 
+            "HOURS_OPEN": "9:00   ", 
+            "STATE": "NY", 
+            "HOURS_CLOSE": "16:00"
+        }
+    }, 
+    {
+        "attributes": {
+            "CITY": "Manhattan", 
+            "ADDRESS": "1301    AMSTERDAM AVENUE", 
+            "SHELTER_NAME": "JACKIE ROBINSON SR CTR", 
+            "HOURS_OPEN": "9:00   ", 
+            "STATE": "NY", 
+            "HOURS_CLOSE": "16:00"
+        }
+    }, 
+    {
+        "attributes": {
+            "CITY": "Manhattan", 
+            "ADDRESS": "120    WEST 76TH STREET", 
+            "SHELTER_NAME": "JASA CLUB 76", 
+            "HOURS_OPEN": "9:00   ", 
+            "STATE": "NY", 
+            "HOURS_CLOSE": "16:00"
+        }
+    }, 
+    {
+        "attributes": {
+            "CITY": "Manhattan", 
+            "ADDRESS": "2205    FIRST AVE", 
+            "SHELTER_NAME": "JEFFERSON HOUSES SENIOR CENTER", 
+            "HOURS_OPEN": "9:00   ", 
+            "STATE": "NY", 
+            "HOURS_CLOSE": "16:00"
+        }
+    }, 
+    {
+        "attributes": {
+            "CITY": "Manhattan", 
+            "ADDRESS": "103    E 7TH ST", 
+            "SHELTER_NAME": "JOHN PAUL II FRIENDSHIP CENTER", 
+            "HOURS_OPEN": "9:00   ", 
+            "STATE": "NY", 
+            "HOURS_CLOSE": "17:00"
+        }
+    }, 
+    {
+        "attributes": {
+            "CITY": "Manhattan", 
+            "ADDRESS": "27    BARROW STREET", 
+            "SHELTER_NAME": "JUDITH WHITE SENIOR CENTER", 
+            "HOURS_OPEN": "9:00   ", 
+            "STATE": "NY", 
+            "HOURS_CLOSE": "17:00"
+        }
+    }, 
+    {
+        "attributes": {
+            "CITY": "Manhattan", 
+            "ADDRESS": "280    CHERRY ST", 
+            "SHELTER_NAME": "LA GUARDIA SENIOR CENTER", 
+            "HOURS_OPEN": "8:30   ", 
+            "STATE": "NY", 
+            "HOURS_CLOSE": "18:00"
+        }
+    }, 
+    {
+        "attributes": {
+            "CITY": "Manhattan", 
+            "ADDRESS": "343    EAST 7OTH STREET", 
+            "SHELTER_NAME": "LENOX HILL INNOVATIVE SENIOR CENTER", 
+            "HOURS_OPEN": "9:00   ", 
+            "STATE": "NY", 
+            "HOURS_CLOSE": "16:00"
+        }
+    }, 
+    {
+        "attributes": {
+            "CITY": "Manhattan", 
+            "ADDRESS": "619    LEXINGTON AVE.", 
+            "SHELTER_NAME": "LENOX HILL ST. PETER'S", 
+            "HOURS_OPEN": "9:00   ", 
+            "STATE": "NY", 
+            "HOURS_CLOSE": "16:00"
+        }
+    }, 
+    {
+        "attributes": {
+            "CITY": "Manhattan", 
+            "ADDRESS": "312    E 109TH ST", 
+            "SHELTER_NAME": "LEONARD COVELLO", 
+            "HOURS_OPEN": "9:00   ", 
+            "STATE": "NY", 
+            "HOURS_CLOSE": "16:00"
+        }
+    }, 
+    {
+        "attributes": {
+            "CITY": "Manhattan", 
+            "ADDRESS": "1970    AMSTERDAM AVE", 
+            "SHELTER_NAME": "M MCLEOD BETHUNE SENIOR CENTER", 
+            "HOURS_OPEN": "9:00   ", 
+            "STATE": "NY", 
+            "HOURS_CLOSE": "16:00"
+        }
+    }, 
+    {
+        "attributes": {
+            "CITY": "Manhattan", 
+            "ADDRESS": "3333    BROADWAY", 
+            "SHELTER_NAME": "MANHATTANVILLE-RIVERSIDE SENIOR CENTER", 
+            "HOURS_OPEN": "9:00   ", 
+            "STATE": "NY", 
+            "HOURS_CLOSE": "16:00"
+        }
+    }, 
+    {
+        "attributes": {
+            "CITY": "Manhattan", 
+            "ADDRESS": "90    BENNETT AVE", 
+            "SHELTER_NAME": "MORIAH OLDER ADULT LUNCHEON CLUB", 
+            "HOURS_OPEN": "9:00   ", 
+            "STATE": "NY", 
+            "HOURS_CLOSE": "16:00"
+        }
+    }, 
+    {
+        "attributes": {
+            "CITY": "Manhattan", 
+            "ADDRESS": "180    MOTT STREET", 
+            "SHELTER_NAME": "MOTT STREET SENIOR CENTER", 
+            "HOURS_OPEN": "8:00   ", 
+            "STATE": "NY", 
+            "HOURS_CLOSE": "16:00"
+        }
+    }, 
+    {
+        "attributes": {
+            "CITY": "Manhattan", 
+            "ADDRESS": "70    MULBERRY ST", 
+            "SHELTER_NAME": "NY CHINATOWN SENIOR CENTER", 
+            "HOURS_OPEN": "9:00   ", 
+            "STATE": "NY", 
+            "HOURS_CLOSE": "17:00"
+        }
+    }, 
+    {
+        "attributes": {
+            "CITY": "Manhattan", 
+            "ADDRESS": "25    CARMINE STREET", 
+            "SHELTER_NAME": "OUR LADY OF POMPEII SENIOR CENTER", 
+            "HOURS_OPEN": "9:00   ", 
+            "STATE": "NY", 
+            "HOURS_CLOSE": "16:00"
+        }
+    }, 
+    {
+        "attributes": {
+            "CITY": "Manhattan", 
+            "ADDRESS": "530    W 55TH ST", 
+            "SHELTER_NAME": "PROJECT FIND CLINTON SENIOR CENTER", 
+            "HOURS_OPEN": "9:00   ", 
+            "STATE": "NY", 
+            "HOURS_CLOSE": "16:00"
+        }
+    }, 
+    {
+        "attributes": {
+            "CITY": "Manhattan", 
+            "ADDRESS": "331    W 42ND ST", 
+            "SHELTER_NAME": "PROJECT FIND COFFEEHOUSE SENIOR CENTER", 
+            "HOURS_OPEN": "9:00   ", 
+            "STATE": "NY", 
+            "HOURS_CLOSE": "16:00"
+        }
+    }, 
+    {
+        "attributes": {
+            "CITY": "Manhattan", 
+            "ADDRESS": "141    W 73RD ST", 
+            "SHELTER_NAME": "PROJECT FIND HAMILTON HOUSE", 
+            "HOURS_OPEN": "9:00   ", 
+            "STATE": "NY", 
+            "HOURS_CLOSE": "16:00"
+        }
+    }, 
+    {
+        "attributes": {
+            "CITY": "Manhattan", 
+            "ADDRESS": "127    W 43RD ST", 
+            "SHELTER_NAME": "PROJECT FIND WOODSTOCK SENIOR CENTER", 
+            "HOURS_OPEN": "9:00   ", 
+            "STATE": "NY", 
+            "HOURS_CLOSE": "16:00"
+        }
+    }, 
+    {
+        "attributes": {
+            "CITY": "Manhattan", 
+            "ADDRESS": "18    MT MORRIS PARK WEST", 
+            "SHELTER_NAME": "PSS HARLEM SENIOR CENTER", 
+            "HOURS_OPEN": "9:00   ", 
+            "STATE": "NY", 
+            "HOURS_CLOSE": "16:00"
+        }
+    }, 
+    {
+        "attributes": {
+            "CITY": "Manhattan", 
+            "ADDRESS": "84    VERMILYEA AVE", 
+            "SHELTER_NAME": "RAIN INWOOD SENIOR CENTER", 
+            "HOURS_OPEN": "9:00   ", 
+            "STATE": "NY", 
+            "HOURS_CLOSE": "16:00"
+        }
+    }, 
+    {
+        "attributes": {
+            "CITY": "Manhattan", 
+            "ADDRESS": "99    FT WASHINGTON AVE", 
+            "SHELTER_NAME": "RIVERSTONE SENIOR LIFE SERVICES SR CTR", 
+            "HOURS_OPEN": "9:00   ", 
+            "STATE": "NY", 
+            "HOURS_CLOSE": "16:00"
+        }
+    }, 
+    {
+        "attributes": {
+            "CITY": "Manhattan", 
+            "ADDRESS": "546    MAIN ST", 
+            "SHELTER_NAME": "ROOSEVELT ISLAND SENIOR CENTER", 
+            "HOURS_OPEN": "9:00   ", 
+            "STATE": "NY", 
+            "HOURS_CLOSE": "16:00"
+        }
+    }, 
+    {
+        "attributes": {
+            "CITY": "Manhattan", 
+            "ADDRESS": "305 SEVENTH AVENUE", 
+            "SHELTER_NAME": "SAGE INNOVATIVE SENIOR CENTER", 
+            "HOURS_OPEN": "11:00   ", 
+            "STATE": "NY", 
+            "HOURS_CLOSE": "17:00"
+        }
+    }, 
+    {
+        "attributes": {
+            "CITY": "Manhattan", 
+            "ADDRESS": "331    E 12TH ST", 
+            "SHELTER_NAME": "SIROVICH SENIOR CENTER", 
+            "HOURS_OPEN": "8:00   ", 
+            "STATE": "NY", 
+            "HOURS_CLOSE": "20:00"
+        }
+    }, 
+    {
+        "attributes": {
+            "CITY": "Manhattan", 
+            "ADDRESS": "50 MADISON STREET", 
+            "SHELTER_NAME": "SMITH HOUSES SENIOR CENTER", 
+            "HOURS_OPEN": "9:00   ", 
+            "STATE": "NY", 
+            "HOURS_CLOSE": "18:00"
+        }
+    }, 
+    {
+        "attributes": {
+            "CITY": "Manhattan", 
+            "ADDRESS": "245    EAST 17TH STREET", 
+            "SHELTER_NAME": "STEIN SENIOR CENTER", 
+            "HOURS_OPEN": "8:00   ", 
+            "STATE": "NY", 
+            "HOURS_CLOSE": "16:00"
+        }
+    }, 
+    {
+        "attributes": {
+            "CITY": "Manhattan", 
+            "ADDRESS": "415    E 93RD ST", 
+            "SHELTER_NAME": "STANLEY ISAACS SENIOR CENTER", 
+            "HOURS_OPEN": "9:00   ", 
+            "STATE": "NY", 
+            "HOURS_CLOSE": "16:00"
+        }
+    }, 
+    {
+        "attributes": {
+            "CITY": "Manhattan", 
+            "ADDRESS": "2322    THIRD AVE", 
+            "SHELTER_NAME": "UBA BEATRICE LEWIS SENIOR CENTER", 
+            "HOURS_OPEN": "9:00   ", 
+            "STATE": "NY", 
+            "HOURS_CLOSE": "16:00"
+        }
+    }, 
+    {
+        "attributes": {
+            "CITY": "Manhattan", 
+            "ADDRESS": "15-17    BIALYSTOKER PLACE", 
+            "SHELTER_NAME": "UJC ADULT LUNCHEON CLUB", 
+            "HOURS_OPEN": "8:00   ", 
+            "STATE": "NY", 
+            "HOURS_CLOSE": "17:00"
+        }
+    }, 
+    {
+        "attributes": {
+            "CITY": "Manhattan", 
+            "ADDRESS": "189    ALLEN STREET", 
+            "SHELTER_NAME": "UNIVERSITY SETTLEMENT NUTRITION", 
+            "HOURS_OPEN": "8:00   ", 
+            "STATE": "NY", 
+            "HOURS_CLOSE": "18:00"
+        }
+    }, 
+    {
+        "attributes": {
+            "CITY": "Manhattan", 
+            "ADDRESS": "135    WEST 23RD STREET", 
+            "SHELTER_NAME": "VISIONS INNOVATIVE SENIOR CENTER", 
+            "HOURS_OPEN": "9:00   ", 
+            "STATE": "NY", 
+            "HOURS_CLOSE": "16:00"
+        }
+    }, 
+    {
+        "attributes": {
+            "CITY": "Manhattan", 
+            "ADDRESS": "650    W 187TH ST", 
+            "SHELTER_NAME": "WASHINGTON HEIGHTS COMMUNITY SERVICES SENIOR CENTER", 
+            "HOURS_OPEN": "9:00   ", 
+            "STATE": "NY", 
+            "HOURS_CLOSE": "16:00"
+        }
+    }, 
+    {
+        "attributes": {
+            "CITY": "Manhattan", 
+            "ADDRESS": "135    W 106TH ST", 
+            "SHELTER_NAME": "WEST SIDE FEDERATION SENIOR CENTER", 
+            "HOURS_OPEN": "9:00   ", 
+            "STATE": "NY", 
+            "HOURS_CLOSE": "16:00"
+        }
+    }, 
+    {
+        "attributes": {
+            "CITY": "Manhattan", 
+            "ADDRESS": "54    NAGEL AVENUE", 
+            "SHELTER_NAME": "YMYWHA INNOVATIVE SENIOR CENTER", 
+            "HOURS_OPEN": "9:00   ", 
+            "STATE": "NY", 
+            "HOURS_CLOSE": "16:00"
+        }
+    }, 
+    {
+        "attributes": {
+            "CITY": "Queens", 
+            "ADDRESS": "166-01 LINDEN    BOULEVARD", 
+            "SHELTER_NAME": "ALLEN SENIOR CENTER", 
+            "HOURS_OPEN": "9:00   ", 
+            "STATE": "NY", 
+            "HOURS_CLOSE": "16:00"
+        }
+    }, 
+    {
+        "attributes": {
+            "CITY": "Queens", 
+            "ADDRESS": "220-01    LINDEN BLVD", 
+            "SHELTER_NAME": "ALPHA PHI ALPHA SENIOR CITIZENS CENTER", 
+            "HOURS_OPEN": "9:00   ", 
+            "STATE": "NY", 
+            "HOURS_CLOSE": "16:00"
+        }
+    }, 
+    {
+        "attributes": {
+            "CITY": "Queens", 
+            "ADDRESS": "143-22    109TH AVE", 
+            "SHELTER_NAME": "BROOKS SENIOR CENTER", 
+            "HOURS_OPEN": "9:00   ", 
+            "STATE": "NY", 
+            "HOURS_CLOSE": "16:00"
+        }
+    }, 
+    {
+        "attributes": {
+            "CITY": "Queens", 
+            "ADDRESS": "221-15    HORACE HARDING EXPY", 
+            "SHELTER_NAME": "CCNS BAYSIDE SENIOR CENTER", 
+            "HOURS_OPEN": "9:00   ", 
+            "STATE": "NY", 
+            "HOURS_CLOSE": "16:00"
+        }
+    }, 
+    {
+        "attributes": {
+            "CITY": "Queens", 
+            "ADDRESS": "35-24    83RD ST", 
+            "SHELTER_NAME": "CCNS CATHERINE SHERIDAN SENIOR CENTER", 
+            "HOURS_OPEN": "9:00   ", 
+            "STATE": "NY", 
+            "HOURS_CLOSE": "16:00"
+        }
+    }, 
+    {
+        "attributes": {
+            "CITY": "Queens", 
+            "ADDRESS": "168-01B    HILLSIDE AVE", 
+            "SHELTER_NAME": "CCNS HILLCREST SENIOR CENTER", 
+            "HOURS_OPEN": "9:00   ", 
+            "STATE": "NY", 
+            "HOURS_CLOSE": "16:00"
+        }
+    }, 
+    {
+        "attributes": {
+            "CITY": "Queens", 
+            "ADDRESS": "103-02    101ST AVE", 
+            "SHELTER_NAME": "CCNS OZONE PARK SENIOR CENTER", 
+            "HOURS_OPEN": "9:00   ", 
+            "STATE": "NY", 
+            "HOURS_CLOSE": "17:00"
+        }
+    }, 
+    {
+        "attributes": {
+            "CITY": "Queens", 
+            "ADDRESS": "23-56    BROADWAY", 
+            "SHELTER_NAME": "CCNS PETER DELLAMONICA SENIOR CENTER", 
+            "HOURS_OPEN": "9:00   ", 
+            "STATE": "NY", 
+            "HOURS_CLOSE": "16:00"
+        }
+    }, 
+    {
+        "attributes": {
+            "CITY": "Queens", 
+            "ADDRESS": "136-18    39TH AVE", 
+            "SHELTER_NAME": "CPC QUEENS NAN SHAN SENIOR CITIZEN CTR", 
+            "HOURS_OPEN": "9:00   ", 
+            "STATE": "NY", 
+            "HOURS_CLOSE": "16:00"
+        }
+    }, 
+    {
+        "attributes": {
+            "CITY": "Queens", 
+            "ADDRESS": "98-16    55TH AVE", 
+            "SHELTER_NAME": "ELMCOR LEFRAK SENIOR CENTER", 
+            "HOURS_OPEN": "9:00   ", 
+            "STATE": "NY", 
+            "HOURS_CLOSE": "16:00"
+        }
+    }, 
+    {
+        "attributes": {
+            "CITY": "Queens", 
+            "ADDRESS": "98-19    ASTORIA BLVD", 
+            "SHELTER_NAME": "ELMCOR SENIOR CENTER", 
+            "HOURS_OPEN": "9:00   ", 
+            "STATE": "NY", 
+            "HOURS_CLOSE": "16:00"
+        }
+    }, 
+    {
+        "attributes": {
+            "CITY": "Queens", 
+            "ADDRESS": "102-19    34TH AVE", 
+            "SHELTER_NAME": "FLORENCE E. SMITH SENIOR CENTER", 
+            "HOURS_OPEN": "9:00   ", 
+            "STATE": "NY", 
+            "HOURS_CLOSE": "16:00"
+        }
+    }, 
+    {
+        "attributes": {
+            "CITY": "Queens", 
+            "ADDRESS": "108-25    62ND DRIVE", 
+            "SHELTER_NAME": "FOREST HILLS SENIOR CENTER", 
+            "HOURS_OPEN": "9:00   ", 
+            "STATE": "NY", 
+            "HOURS_CLOSE": "16:00"
+        }
+    }, 
+    {
+        "attributes": {
+            "CITY": "Queens", 
+            "ADDRESS": "13-28    123RD ST", 
+            "SHELTER_NAME": "HANAC COLLEGE POINT SENIOR CENTER", 
+            "HOURS_OPEN": "9:00   ", 
+            "STATE": "NY", 
+            "HOURS_CLOSE": "16:00"
+        }
+    }, 
+    {
+        "attributes": {
+            "CITY": "Queens", 
+            "ADDRESS": "32-06    21ST ST", 
+            "SHELTER_NAME": "HANAC ARCHBISHOP IAKOVOS SENIOR CENTER", 
+            "HOURS_OPEN": "9:00   ", 
+            "STATE": "NY", 
+            "HOURS_CLOSE": "16:00"
+        }
+    }, 
+    {
+        "attributes": {
+            "CITY": "Queens", 
+            "ADDRESS": "27-40    HOYT AVE", 
+            "SHELTER_NAME": "HANAC LINDSAY JVL SENIOR CENTER", 
+            "HOURS_OPEN": "9:00   ", 
+            "STATE": "NY", 
+            "HOURS_CLOSE": "16:00"
+        }
+    }, 
+    {
+        "attributes": {
+            "CITY": "Queens", 
+            "ADDRESS": "34-35A    12TH ST", 
+            "SHELTER_NAME": "HANAC RAVENSWOOD SENIOR CENTER", 
+            "HOURS_OPEN": "9:00   ", 
+            "STATE": "NY", 
+            "HOURS_CLOSE": "16:00"
+        }
+    }, 
+    {
+        "attributes": {
+            "CITY": "Queens", 
+            "ADDRESS": "108-74    ROOSEVELT AVE", 
+            "SHELTER_NAME": "IPR/HE CORONA SENIOR CENTER", 
+            "HOURS_OPEN": "9:00   ", 
+            "STATE": "NY", 
+            "HOURS_CLOSE": "16:00"
+        }
+    }, 
+    {
+        "attributes": {
+            "CITY": "Queens", 
+            "ADDRESS": "75-01    BROADWAY", 
+            "SHELTER_NAME": "IPR/HE ELMHURST JACKSON HEIGHTS SR CTR", 
+            "HOURS_OPEN": "9:00   ", 
+            "STATE": "NY", 
+            "HOURS_CLOSE": "17:00"
+        }
+    }, 
+    {
+        "attributes": {
+            "CITY": "Queens", 
+            "ADDRESS": "131    BEACH 19TH STREET", 
+            "SHELTER_NAME": "JASA BROOKDALE SENIOR CENTER", 
+            "HOURS_OPEN": "9:00   ", 
+            "STATE": "NY", 
+            "HOURS_CLOSE": "17:00"
+        }
+    }, 
+    {
+        "attributes": {
+            "CITY": "Queens", 
+            "ADDRESS": "86-25    FRANCIS LEWIS BLVD", 
+            "SHELTER_NAME": "JASA HOLLISWOOD SENIOR CENTER", 
+            "HOURS_OPEN": "9:00   ", 
+            "STATE": "NY", 
+            "HOURS_CLOSE": "16:00"
+        }
+    }, 
+    {
+        "attributes": {
+            "CITY": "Queens", 
+            "ADDRESS": "123-10    143 ST", 
+            "SHELTER_NAME": "JSPOA ROCKAWAY BLVD SENIOR CENTER", 
+            "HOURS_OPEN": "9:00   ", 
+            "STATE": "NY", 
+            "HOURS_CLOSE": "17:00"
+        }
+    }, 
+    {
+        "attributes": {
+            "CITY": "Queens", 
+            "ADDRESS": "1915 SEARGRIT BLVD", 
+            "SHELTER_NAME": "JASA SENIOR    HOUSING", 
+            "HOURS_OPEN": "9:00   ", 
+            "STATE": "NY", 
+            "HOURS_CLOSE": "17:00"
+        }
+    }, 
+    {
+        "attributes": {
+            "CITY": "Queens", 
+            "ADDRESS": "7-11C    SEAGIRT AVENUE", 
+            "SHELTER_NAME": "JASA ROY REUTHER SENIOR CENTER", 
+            "HOURS_OPEN": "9:00   ", 
+            "STATE": "NY", 
+            "HOURS_CLOSE": "17:00"
+        }
+    }, 
+    {
+        "attributes": {
+            "CITY": "Queens", 
+            "ADDRESS": "37-06    111TH ST", 
+            "SHELTER_NAME": "KOREAN AMERICAN SENIOR CENTER - CORONA", 
+            "HOURS_OPEN": "9:00   ", 
+            "STATE": "NY", 
+            "HOURS_CLOSE": "16:00"
+        }
+    }, 
+    {
+        "attributes": {
+            "CITY": "Queens", 
+            "ADDRESS": "42-15    166TH ST", 
+            "SHELTER_NAME": "KOREAN AMERICAN SENIOR CENTER - FLUSHING", 
+            "HOURS_OPEN": "9:00   ", 
+            "STATE": "NY", 
+            "HOURS_CLOSE": "16:00"
+        }
+    }, 
+    {
+        "attributes": {
+            "CITY": "Queens", 
+            "ADDRESS": "69-10    75TH ST", 
+            "SHELTER_NAME": "MIDDLE VILLAGE SENIOR CENTER", 
+            "HOURS_OPEN": "9:00   ", 
+            "STATE": "NY", 
+            "HOURS_CLOSE": "16:00"
+        }
+    }, 
+    {
+        "attributes": {
+            "CITY": "Queens", 
+            "ADDRESS": "83-20    QUEENS BLVD", 
+            "SHELTER_NAME": "NEWTOWN ITALIAN SENIOR CNETER", 
+            "HOURS_OPEN": "9:00   ", 
+            "STATE": "NY", 
+            "HOURS_CLOSE": "16:00"
+        }
+    }, 
+    {
+        "attributes": {
+            "CITY": "Queens", 
+            "ADDRESS": "68-52    FRESH POND RD", 
+            "SHELTER_NAME": "PETER CARDELLA SENIOR CENTER", 
+            "HOURS_OPEN": "9:00   ", 
+            "STATE": "NY", 
+            "HOURS_CLOSE": "16:00"
+        }
+    }, 
+    {
+        "attributes": {
+            "CITY": "Queens", 
+            "ADDRESS": "67-09    KISSENA BLVD", 
+            "SHELTER_NAME": "POMONOK SENIOR CENTER", 
+            "HOURS_OPEN": "9:00   ", 
+            "STATE": "NY", 
+            "HOURS_CLOSE": "16:00"
+        }
+    }, 
+    {
+        "attributes": {
+            "CITY": "Queens", 
+            "ADDRESS": "10-25    41ST AVE", 
+            "SHELTER_NAME": "QUEENSBRIDGE-RIIS SENIOR CENTER", 
+            "HOURS_OPEN": "9:00   ", 
+            "STATE": "NY", 
+            "HOURS_CLOSE": "16:00"
+        }
+    }, 
+    {
+        "attributes": {
+            "CITY": "Queens", 
+            "ADDRESS": "21-21    30TH DRIVE", 
+            "SHELTER_NAME": "RAICES ASTORIA SENIOR CENTER", 
+            "HOURS_OPEN": "9:00   ", 
+            "STATE": "NY", 
+            "HOURS_CLOSE": "16:00"
+        }
+    }, 
+    {
+        "attributes": {
+            "CITY": "Queens", 
+            "ADDRESS": "107-24    CORONA AVE", 
+            "SHELTER_NAME": "RAICES CORONA SENIOR CENTER", 
+            "HOURS_OPEN": "9:00   ", 
+            "STATE": "NY", 
+            "HOURS_CLOSE": "16:00"
+        }
+    }, 
+    {
+        "attributes": {
+            "CITY": "Queens", 
+            "ADDRESS": "93-29    QUEENS BLVD", 
+            "SHELTER_NAME": "REGO PARK SENIOR CENTER", 
+            "HOURS_OPEN": "9:00   ", 
+            "STATE": "NY", 
+            "HOURS_CLOSE": "16:00"
+        }
+    }, 
+    {
+        "attributes": {
+            "CITY": "Queens", 
+            "ADDRESS": "59-14    70TH AVE", 
+            "SHELTER_NAME": "RIDGEWOOD OLDER ADULT CENTER", 
+            "HOURS_OPEN": "9:00   ", 
+            "STATE": "NY", 
+            "HOURS_CLOSE": "16:00"
+        }
+    }, 
+    {
+        "attributes": {
+            "CITY": "Queens", 
+            "ADDRESS": "137-57 FARMERS    BOULEVARD", 
+            "SHELTER_NAME": "ROBERT COUCHE SENIOR CENTER", 
+            "HOURS_OPEN": "9:00   ", 
+            "STATE": "NY", 
+            "HOURS_CLOSE": "16:00"
+        }
+    }, 
+    {
+        "attributes": {
+            "CITY": "Queens", 
+            "ADDRESS": "169-65    137TH AVE", 
+            "SHELTER_NAME": "ROCHDALE SENIOR CENTER", 
+            "HOURS_OPEN": "9:00   ", 
+            "STATE": "NY", 
+            "HOURS_CLOSE": "16:00"
+        }
+    }, 
+    {
+        "attributes": {
+            "CITY": "Queens", 
+            "ADDRESS": "106-06    QUEENS BLVD", 
+            "SHELTER_NAME": "SELFHELP AUSTIN ST SENIOR CENTER", 
+            "HOURS_OPEN": "9:00   ", 
+            "STATE": "NY", 
+            "HOURS_CLOSE": "16:00"
+        }
+    }, 
+    {
+        "attributes": {
+            "CITY": "Queens", 
+            "ADDRESS": "45-25    KISSENA BLVD.", 
+            "SHELTER_NAME": "SELFHELP BEN ROSENTHAL ISC", 
+            "HOURS_OPEN": "9:00   ", 
+            "STATE": "NY", 
+            "HOURS_CLOSE": "16:00"
+        }
+    }, 
+    {
+        "attributes": {
+            "CITY": "Queens", 
+            "ADDRESS": "208-11    26TH AVE", 
+            "SHELTER_NAME": "SELFHELP CLEARVIEW SENIOR CENTER", 
+            "HOURS_OPEN": "9:00   ", 
+            "STATE": "NY", 
+            "HOURS_CLOSE": "16:00"
+        }
+    }, 
+    {
+        "attributes": {
+            "CITY": "Queens", 
+            "ADDRESS": "34-30    137TH Street", 
+            "SHELTER_NAME": "SELFHELP LATIMER GARDENS SENIOR CENTER", 
+            "HOURS_OPEN": "9:00   ", 
+            "STATE": "NY", 
+            "HOURS_CLOSE": "16:00"
+        }
+    }, 
+    {
+        "attributes": {
+            "CITY": "Queens", 
+            "ADDRESS": "69-61    GRAND AVE", 
+            "SHELTER_NAME": "SELFHELP MASPETH SENIOR CENTER", 
+            "HOURS_OPEN": "9:00   ", 
+            "STATE": "NY", 
+            "HOURS_CLOSE": "16:00"
+        }
+    }, 
+    {
+        "attributes": {
+            "CITY": "Queens", 
+            "ADDRESS": "80-45    WINCHESTER BLVD", 
+            "SHELTER_NAME": "SNAP INNOVATIVE SENIOR CENTER", 
+            "HOURS_OPEN": "9:00   ", 
+            "STATE": "NY", 
+            "HOURS_CLOSE": "16:00"
+        }
+    }, 
+    {
+        "attributes": {
+            "CITY": "Queens", 
+            "ADDRESS": "JAMAICA,    NY 11427", 
+            "SHELTER_NAME": "SNAP BROOKVILLE SENIOR CENTER", 
+            "HOURS_OPEN": "9:00   ", 
+            "STATE": "NY", 
+            "HOURS_CLOSE": "16:00"
+        }
+    }, 
+    {
+        "attributes": {
+            "CITY": "Queens", 
+            "ADDRESS": "43-31    39TH ST", 
+            "SHELTER_NAME": "SUNNYSIDE COMMUNITY SENIOR CENTER", 
+            "HOURS_OPEN": "9:00   ", 
+            "STATE": "NY", 
+            "HOURS_CLOSE": "16:00"
+        }
+    }, 
+    {
+        "attributes": {
+            "CITY": "Queens", 
+            "ADDRESS": "92-47    165 ST", 
+            "SHELTER_NAME": "THEODORA JACKSON SENIOR CENTER", 
+            "HOURS_OPEN": "9:00   ", 
+            "STATE": "NY", 
+            "HOURS_CLOSE": "16:00"
+        }
+    }, 
+    {
+        "attributes": {
+            "CITY": "Queens", 
+            "ADDRESS": "50-37    NEWTOWN RD", 
+            "SHELTER_NAME": "WOODSIDE SENIOR CENTER", 
+            "HOURS_OPEN": "9:00   ", 
+            "STATE": "NY", 
+            "HOURS_CLOSE": "16:00"
+        }
+    }, 
+    {
+        "attributes": {
+            "CITY": "Queens", 
+            "ADDRESS": "68-07    BURNS ST", 
+            "SHELTER_NAME": "YOUNG ISRAEL of FOREST HILLS SENIOR LEAGUE", 
+            "HOURS_OPEN": "9:00   ", 
+            "STATE": "NY", 
+            "HOURS_CLOSE": "16:00"
+        }
+    }, 
+    {
+        "attributes": {
+            "CITY": "Queens", 
+            "ADDRESS": "141-55    77TH AVE", 
+            "SHELTER_NAME": "YOUNG ISRAEL of QUEENS VALLEY", 
+            "HOURS_OPEN": "9:00   ", 
+            "STATE": "NY", 
+            "HOURS_CLOSE": "16:00"
+        }
+    }, 
+    {
+        "attributes": {
+            "CITY": "Queens", 
+            "ADDRESS": "2716    HEALY AVENUE", 
+            "SHELTER_NAME": "YOUNG ISRAEL of WAVECREST/BAYSWATER", 
+            "HOURS_OPEN": "9:00   ", 
+            "STATE": "NY", 
+            "HOURS_CLOSE": "16:00"
+        }
+    }, 
+    {
+        "attributes": {
+            "CITY": "SI", 
+            "ADDRESS": "85 JEROME AVENUE", 
+            "SHELTER_NAME": "ARROCHAR SENIOR CENTER", 
+            "HOURS_OPEN": "7:00   ", 
+            "STATE": "NY", 
+            "HOURS_CLOSE": "16:00"
+        }
+    }, 
+    {
+        "attributes": {
+            "CITY": "SI", 
+            "ADDRESS": "125    CASSIDY PLACE", 
+            "SHELTER_NAME": "CASSIDY COLES SENIOR CENTER", 
+            "HOURS_OPEN": "8:00   ", 
+            "STATE": "NY", 
+            "HOURS_CLOSE": "16:00"
+        }
+    }, 
+    {
+        "attributes": {
+            "CITY": "SI", 
+            "ADDRESS": "120    ANDERSON AVE", 
+            "SHELTER_NAME": "CYO SENIOR GUILD LUNCH", 
+            "HOURS_OPEN": "7:00   ", 
+            "STATE": "NY", 
+            "HOURS_CLOSE": "18:00"
+        }
+    }, 
+    {
+        "attributes": {
+            "CITY": "SI", 
+            "ADDRESS": "330    SAINT MARKS PLACE", 
+            "SHELTER_NAME": "FOREVER YOUNG SENIOR CENTER", 
+            "HOURS_OPEN": "8:00   ", 
+            "STATE": "NY", 
+            "HOURS_CLOSE": "16:00"
+        }
+    }, 
+    {
+        "attributes": {
+            "CITY": "SI", 
+            "ADDRESS": "1466    MANOR ROAD", 
+            "SHELTER_NAME": "JCC INNOVATIVE SENIOR CENTER", 
+            "HOURS_OPEN": "9:00   ", 
+            "STATE": "NY", 
+            "HOURS_CLOSE": "17:00"
+        }
+    }, 
+    {
+        "attributes": {
+            "CITY": "SI", 
+            "ADDRESS": "1297    ARTHUR KILL ROAD", 
+            "SHELTER_NAME": "JCC SOUTH SHORE SR CTR", 
+            "HOURS_OPEN": "9:00   ", 
+            "STATE": "NY", 
+            "HOURS_CLOSE": "20:30"
+        }
+    }, 
+    {
+        "attributes": {
+            "CITY": "SI", 
+            "ADDRESS": "6581 HYLAN BOULEVARD", 
+            "SHELTER_NAME": "MOUNT LORETTO SENIOR CENTER", 
+            "HOURS_OPEN": "8:00   ", 
+            "STATE": "NY", 
+            "HOURS_CLOSE": "16:00"
+        }
+    }, 
+    {
+        "attributes": {
+            "CITY": "SI", 
+            "ADDRESS": "70    NEW LANE", 
+            "SHELTER_NAME": "NEW LANE SENIOR CENTER", 
+            "HOURS_OPEN": "8:00   ", 
+            "STATE": "NY", 
+            "HOURS_CLOSE": "20:00"
+        }
+    }, 
+    {
+        "attributes": {
+            "CITY": "SI", 
+            "ADDRESS": "120    ANDERSON AVE", 
+            "SHELTER_NAME": "SENIOR GUILD LUNCHEON PROGRAM", 
+            "HOURS_OPEN": "9:00   ", 
+            "STATE": "NY", 
+            "HOURS_CLOSE": "16:00"
+        }
+    }, 
+    {
+        "attributes": {
+            "CITY": "SI", 
+            "ADDRESS": "189    GORDON ST", 
+            "SHELTER_NAME": "STAPLETON SENIOR CENTER", 
+            "HOURS_OPEN": null, 
+            "STATE": "NY", 
+            "HOURS_CLOSE": null
+        }
+    }, 
+    {
+        "attributes": {
+            "CITY": "SI", 
+            "ADDRESS": "11 SAMPSON AVENUE", 
+            "SHELTER_NAME": "STATEN ISLAND FRIENDSHIP CLUB", 
+            "HOURS_OPEN": "7:00   ", 
+            "STATE": "NY", 
+            "HOURS_CLOSE": "16:00"
+        }
+    }, 
+    {
+        "attributes": {
+            "CITY": "SI", 
+            "ADDRESS": "184 SCHMIDTS LANE", 
+            "SHELTER_NAME": "TODT HILL FRIENDSHIP CLUB", 
+            "HOURS_OPEN": "9:00   ", 
+            "STATE": "NY", 
+            "HOURS_CLOSE": "16:00"
+        }
+    }, 
+    {
+        "attributes": {
+            "CITY": "SI", 
+            "ADDRESS": "230    BROADWAY", 
+            "SHELTER_NAME": "WEST BRIGHTON SENIOR CENTER", 
+            "HOURS_OPEN": "8:00   ", 
+            "STATE": "NY", 
+            "HOURS_CLOSE": "16:00"
+        }
+    }, 
+    {
+        "attributes": {
+            "STATE": "NY", 
+            "SHELTER_NAME": "Warming Centers will provide residents without electricity a chance to get warm, charge electronic devices, get some food."
+        }
+    }, 
+    {
+        "attributes": {
+            "CITY": "Northport", 
+            "STATE": "NY", 
+            "SHELTER_NAME": "The centers, their hours of operation and their facilities are:", 
+            "ADDRESS": "158 Laurel Ave"
+        }
+    }, 
+    {
+        "attributes": {
+            "CITY": "Huntington", 
+            "STATE": "NY", 
+            "SHELTER_NAME": "Central Presbyterian Church", 
+            "ADDRESS": "240 Main Street"
+        }
+    }, 
+    {
+        "attributes": {
+            "CITY": "Huntington", 
+            "STATE": "NY", 
+            "SHELTER_NAME": "Temple Beth El", 
+            "ADDRESS": "660 Park Avenue"
+        }
+    }, 
+    {
+        "attributes": {
+            "CITY": "Huntington Station", 
+            "STATE": "NY", 
+            "SHELTER_NAME": "St. Hugh of Lincoln R. C. Church", 
+            "ADDRESS": "New York Avenue at East 9th Street"
+        }
+    }, 
+    {
+        "attributes": {
+            "CITY": "Huntington Station", 
+            "STATE": "NY", 
+            "SHELTER_NAME": "Light of Salvation Church", 
+            "ADDRESS": "1599 New York Avenue"
+        }
+    }, 
+    {
+        "attributes": {
+            "CITY": "Dix Hills \u2013 11746", 
+            "STATE": "NY", 
+            "SHELTER_NAME": "Dix Hills Ice Rink", 
+            "ADDRESS": "575 Vanderbilt Parkway"
+        }
+    }
+]
