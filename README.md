@@ -7,7 +7,7 @@ href="http://capitolcampny.org">CapitolCamp2012</a> which is an annual
 “Unconference” and “Hackathon” that brings together government technology
 stakeholders from the public and private sectors to discuss how technology can
 foster a more transparent, efficient, and participatory government for all New
-York State citizens."
+York State citizens.
 </p>
 
 <p>Hurricane-sandy-relief was one of many worked on during the hackathon. You
@@ -19,11 +19,11 @@ href="https://github.com/nycapitolcamp">CapitolCamp Github Page</a>.</p>
 The Problem
 -----------
 
-Many New Yorkers are still without use of public utilities and, and in need of
+Many New Yorkers are still without use of public utilities and in need of
 support in the wake of Hurricane Sandy. On the front page of <a target="_blank"
 href="http://governor.ny.gov">http://governor.ny.gov</a> the state has provided
-a list of resources for New Yorkers--for both those that need help, and those
-who want to help others. These include topics such as:
+a list of resources for both those that need help, and those who want to help
+others. These include topics such as:
 
 <ul>
     <li>How You Can Help Storm Victims</li>
@@ -92,7 +92,7 @@ Here is a screenshot of the mobile site at the end of Day 2 of CapitolCamp.
 This image does not reflect the current state of the project, but will give
 prospective contributors an idea of where we are headed.
 
-<img hspace="100" src="https://github.com/nycapitolcamp/hurricane-sandy-relief/blob/master/misc/alpha-screenshot.png?raw=true"/>
+<img src="https://github.com/nycapitolcamp/hurricane-sandy-relief/blob/master/misc/alpha-screenshot.png?raw=true"/>
 
 The Future
 ----------
